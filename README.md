@@ -58,7 +58,7 @@ This project showcases a comprehensive **Sales Performance Dashboard** built usi
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/giramoni-rajeev-prakash-29072ba6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZnoA9%2BXsR3Kpu9C9vHDp8g%3D%3D)
 - 💻 [GitHub](https://github.com/Grajeevgithub)
-- 📬 Email: your.email@example.com
+- 📬 Email: giramonirp@gmail.com
 
 ---
 

@@ -37,12 +37,6 @@ This project showcases a comprehensive **Sales Performance Dashboard** built usi
 
 ---
 
-## 📷 Screenshots
-
-> _Add screenshots of your dashboard here to help viewers understand the visual impact._
-
----
-
 ## 📝 How to Use
 
 1. Clone this repo or download the `.pbix` file.

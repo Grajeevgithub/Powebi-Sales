@@ -1,65 +1,46 @@
-# 📊 Sales Performance Dashboard – Power BI Project
+# 📊 Power BI Sales Analysis Project
 
-This project showcases a comprehensive **Sales Performance Dashboard** built using **Power BI**. It provides key business insights for decision-makers by analyzing sales trends, product performance, customer returns, and regional sales distribution.
-
----
-
-## 🚀 Project Overview
-
-- **Goal**: Analyze and visualize sales data to uncover insights and trends for strategic business decisions.
-- **Tools Used**: 
-  - Power BI (Data Modeling, DAX, Visuals)
-  - Power Query Editor (Data Cleaning & Transformation)
-  - Excel (Raw data source)
-- **Dataset**: Sample sales dataset containing orders, returns, regions, products, and categories.
+This project includes 3 dashboards built in Power BI to analyze sales performance, customer segmentation, and return trends for a retail dataset.
 
 ---
 
-## 📌 Key Features
+## 🔹 Dashboards Included
 
-- 📈 **KPI Cards**: Track key metrics like Total Sales, Total Profit, Order Count, Return Count.
-- 📊 **Trend Analysis**: Monthly sales & profit trends using line and bar charts.
-- 🗂️ **Category/Product Performance**: Top/Bottom products and sub-categories by sales.
-- 🗺️ **Map Visualization**: Sales by region to identify high/low-performing areas.
-- 🔁 **Return Analysis**: Detect patterns in returned orders.
-- 📅 **Time Intelligence**: DAX-based measures for YTD, MTD, and previous year comparison.
+1. **Sales Performance Dashboard**
+   - Total Sales: ₹2.46M | Profit: ₹433K | Margin: 18%
+   - Top categories: Furniture, Technology, Office Supplies
+   - Top sub-categories: Tables, Binders, Chairs
+   - Regional sales trends and city-wise filters
 
----
+2. **Customer Segmentation Dashboard**
+   - 500 Customers from 7 Cities
+   - Segments: Consumer, Corporate, Home Office
+   - Average sales per customer and total order breakdown
 
-## 🧠 Skills Demonstrated
-
-- ✅ Data cleaning & transformation in Power Query (PQE)
-- ✅ Data modeling with relationships
-- ✅ DAX measures & calculated columns
-- ✅ Effective use of slicers and filters
-- ✅ Dashboard design best practices
-- ✅ Insight extraction & storytelling with visuals
+3. **Return Analysis Dashboard**
+   - Return % and return count by sub-category
+   - Time-based return trends
+   - Loss impact from returns
 
 ---
 
-## 📝 How to Use
+## 🧠 Key Learnings
 
-1. Clone this repo or download the `.pbix` file.
-2. Open in Power BI Desktop.
-3. Review the data model, DAX measures, and visuals.
-4. Explore the dashboard using slicers and filters.
+- 📌 Created 15+ visuals using Power BI
+- ⚙️ Used DAX for KPI cards (Profit Margin, Avg. Sales)
+- 🧹 Performed data cleaning using Power Query and Excel
+- 📈 Built interactive dashboards with slicers for region, city, and category
 
 ---
 
-## 📚 Learnings & Outcomes
+## 📁 Files
 
-- Learned how to build a sales dashboard from raw data to insights.
-- Practiced DAX for aggregations and time-based calculations.
-- Gained experience in visual storytelling for business intelligence.
+- `PowerBI-Sales-Dashboard.pbix`: Main Power BI File
+- `/Images`: Screenshots of dashboards
 
 ---
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/giramoni-rajeev-prakash-29072ba6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZnoA9%2BXsR3Kpu9C9vHDp8g%3D%3D)
-- 💻 [GitHub](https://github.com/Grajeevgithub)
-- 📬 Email: giramonirp@gmail.com
-
----
-
-> ⭐ _If you found this project helpful, feel free to star the repo and connect with me on LinkedIn!_
+🔹 [LinkedIn Profile](https://www.linkedin.com/in/giramoni-rajeev-prakash-29072ba6/)  
+🔹 [GitHub Profile](https://github.com/Grajeevgithub)

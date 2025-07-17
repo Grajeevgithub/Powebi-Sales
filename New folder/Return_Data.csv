@@ -1,0 +1,101 @@
+OrderID,ReturnDate,ReturnReason,ReturnStatus
+116,2023-05-12,Defective,Pending
+277,2023-04-09,Defective,Pending
+598,2023-07-03,Late Delivery,Approved
+537,2024-01-21,Wrong Item,Pending
+83,2023-07-25,Defective,Rejected
+814,2024-01-07,Wrong Item,Pending
+850,2023-09-22,Late Delivery,Approved
+904,2023-11-11,Customer Dissatisfaction,Approved
+784,2023-10-19,Late Delivery,Pending
+861,2023-03-14,Customer Dissatisfaction,Pending
+20,2023-03-12,Defective,Rejected
+467,2023-07-07,Wrong Item,Rejected
+684,2024-01-06,Wrong Item,Pending
+305,2023-03-06,Defective,Approved
+750,2023-03-17,Customer Dissatisfaction,Pending
+136,2023-04-13,Late Delivery,Pending
+662,2023-03-15,Customer Dissatisfaction,Approved
+890,2023-03-19,Late Delivery,Rejected
+828,2023-02-14,Customer Dissatisfaction,Rejected
+645,2023-04-24,Defective,Approved
+867,2023-04-14,Wrong Item,Pending
+776,2023-10-31,Wrong Item,Rejected
+811,2023-07-14,Customer Dissatisfaction,Rejected
+733,2023-09-24,Defective,Rejected
+609,2023-02-17,Wrong Item,Pending
+97,2023-02-13,Wrong Item,Pending
+818,2023-12-26,Late Delivery,Pending
+626,2023-11-02,Customer Dissatisfaction,Approved
+430,2023-07-10,Customer Dissatisfaction,Approved
+193,2023-12-22,Wrong Item,Approved
+501,2023-04-10,Customer Dissatisfaction,Approved
+475,2023-10-15,Late Delivery,Rejected
+451,2023-11-22,Late Delivery,Rejected
+602,2023-09-24,Late Delivery,Pending
+681,2023-10-31,Customer Dissatisfaction,Approved
+354,2024-01-16,Wrong Item,Approved
+446,2023-07-25,Customer Dissatisfaction,Pending
+129,2024-01-03,Defective,Pending
+984,2023-05-29,Customer Dissatisfaction,Approved
+298,2023-08-03,Late Delivery,Pending
+931,2023-03-31,Wrong Item,Approved
+468,2023-03-30,Customer Dissatisfaction,Pending
+572,2023-11-15,Wrong Item,Approved
+131,2023-07-28,Late Delivery,Approved
+469,2023-12-21,Wrong Item,Rejected
+524,2023-06-25,Defective,Rejected
+94,2023-06-11,Defective,Pending
+834,2024-01-11,Late Delivery,Approved
+670,2023-12-07,Wrong Item,Pending
+923,2023-05-08,Late Delivery,Rejected
+153,2023-06-29,Defective,Rejected
+107,2023-12-24,Customer Dissatisfaction,Pending
+292,2023-08-26,Customer Dissatisfaction,Pending
+772,2023-08-10,Wrong Item,Approved
+771,2023-09-11,Late Delivery,Pending
+939,2023-05-20,Wrong Item,Approved
+152,2023-08-27,Customer Dissatisfaction,Rejected
+221,2023-06-10,Wrong Item,Approved
+315,2023-05-18,Wrong Item,Pending
+417,2023-02-20,Defective,Approved
+45,2023-11-16,Late Delivery,Rejected
+719,2023-07-22,Wrong Item,Pending
+709,2023-09-02,Customer Dissatisfaction,Approved
+723,2023-07-20,Late Delivery,Approved
+747,2023-10-25,Defective,Pending
+527,2024-01-26,Late Delivery,Rejected
+881,2023-10-14,Late Delivery,Approved
+313,2023-08-09,Late Delivery,Rejected
+467,2023-02-08,Defective,Pending
+8,2023-11-07,Customer Dissatisfaction,Pending
+804,2023-04-08,Late Delivery,Pending
+164,2024-01-06,Defective,Approved
+542,2023-10-06,Defective,Pending
+655,2023-02-14,Wrong Item,Rejected
+802,2024-01-23,Defective,Pending
+992,2023-09-11,Defective,Rejected
+168,2023-12-26,Defective,Rejected
+243,2023-10-09,Wrong Item,Pending
+492,2023-06-15,Defective,Approved
+160,2023-02-05,Defective,Rejected
+306,2024-01-22,Late Delivery,Approved
+417,2023-12-24,Late Delivery,Pending
+693,2023-05-27,Customer Dissatisfaction,Approved
+84,2023-03-13,Wrong Item,Pending
+785,2023-02-05,Wrong Item,Rejected
+666,2023-04-16,Late Delivery,Rejected
+126,2023-07-24,Customer Dissatisfaction,Approved
+696,2023-12-25,Defective,Rejected
+848,2023-06-01,Wrong Item,Approved
+713,2023-10-26,Customer Dissatisfaction,Approved
+945,2023-09-20,Late Delivery,Approved
+393,2023-05-13,Wrong Item,Rejected
+836,2023-05-18,Customer Dissatisfaction,Approved
+453,2023-10-23,Defective,Rejected
+416,2023-08-27,Defective,Pending
+356,2024-01-08,Defective,Pending
+240,2023-12-17,Late Delivery,Pending
+405,2024-01-30,Customer Dissatisfaction,Rejected
+317,2023-02-20,Customer Dissatisfaction,Pending
+836,2023-08-07,Customer Dissatisfaction,Pending

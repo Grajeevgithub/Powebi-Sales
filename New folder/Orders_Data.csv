@@ -1,0 +1,1001 @@
+OrderID,CustomerID,OrderDate,ShipDate,ShipMode,Country,Region,City,Segment,Category,Sub-Category,Sales,Quantity,Discount,Profit
+1,188,2023-10-22,2023-12-18,Same Day,India,North,Delhi,Home Office,Furniture,Binders,4206.88,9,0.02,872.2
+2,7,2023-08-06,2023-10-17,Standard Class,India,East,Delhi,Home Office,Furniture,Chairs,4510.66,1,0.01,634.69
+3,394,2023-04-13,2023-08-20,First Class,India,South,Pune,Home Office,Technology,Tables,2428.79,7,0.44,72.88
+4,115,2023-04-04,2023-04-24,First Class,India,West,Chennai,Corporate,Technology,Tables,2485.67,7,0.19,222.15
+5,208,2023-09-30,2023-11-26,Same Day,India,North,Mumbai,Corporate,Furniture,Phones,3113.7,3,0.19,375.88
+6,259,2023-09-12,2023-09-28,Same Day,India,North,Pune,Corporate,Office Supplies,Tables,704.66,3,0.29,549.27
+7,151,2023-10-27,2023-11-01,First Class,India,South,Pune,Home Office,Technology,Chairs,2705.69,4,0.47,174.32
+8,199,2023-05-13,2023-09-29,Second Class,India,North,Chennai,Corporate,Furniture,Phones,526.89,9,0.28,750.08
+9,183,2023-07-22,2023-12-31,Standard Class,India,West,Chennai,Corporate,Technology,Chairs,619.49,10,0.25,-9.69
+10,150,2023-02-17,2023-09-16,Standard Class,India,East,Pune,Consumer,Technology,Phones,2670.58,8,0.34,72.99
+11,163,2023-05-18,2023-11-30,First Class,India,North,Kolkata,Home Office,Office Supplies,Binders,646.46,4,0.48,-90.3
+12,363,2023-05-03,2023-08-25,Standard Class,India,West,Delhi,Consumer,Office Supplies,Chairs,571.63,3,0.27,647.37
+13,297,2023-01-11,2023-06-13,Same Day,India,North,Kolkata,Home Office,Furniture,Accessories,4454.17,2,0.05,-67.91
+14,406,2023-08-26,2023-11-06,Second Class,India,West,Mumbai,Consumer,Technology,Chairs,64.88,10,0.2,261.4
+15,55,2023-01-14,2023-05-30,First Class,India,South,Kolkata,Home Office,Office Supplies,Accessories,2844.98,6,0.4,691.38
+16,454,2023-01-20,2023-10-04,Second Class,India,South,Bengaluru,Home Office,Furniture,Chairs,1678.1,4,0.34,222.39
+17,98,2023-08-31,2023-10-27,First Class,India,North,Delhi,Home Office,Technology,Tables,3359.32,8,0.49,154.36
+18,241,2023-08-23,2023-11-25,Second Class,India,South,Chennai,Home Office,Technology,Tables,253.38,1,0.29,102.45
+19,65,2023-08-09,2023-11-17,Standard Class,India,South,Hyderabad,Consumer,Technology,Accessories,1473.91,6,0.09,337.14
+20,299,2023-08-07,2023-11-09,Second Class,India,North,Delhi,Consumer,Technology,Binders,1858.1,5,0.41,1.87
+21,342,2023-06-24,2023-12-06,First Class,India,South,Bengaluru,Home Office,Office Supplies,Phones,3253.83,1,0.01,964.06
+22,51,2023-02-08,2023-10-26,Second Class,India,North,Bengaluru,Home Office,Technology,Binders,186.64,8,0.47,129.09
+23,69,2023-06-10,2023-12-31,First Class,India,South,Delhi,Corporate,Office Supplies,Chairs,1492.89,1,0.38,908.79
+24,291,2023-01-01,2023-05-07,Standard Class,India,West,Kolkata,Consumer,Technology,Chairs,2093.06,7,0.36,37.36
+25,196,2023-02-24,2023-03-29,First Class,India,West,Delhi,Consumer,Furniture,Chairs,1901.58,2,0.11,497.97
+26,179,2023-12-21,2024-01-06,Standard Class,India,South,Pune,Consumer,Technology,Tables,4181.41,6,0.26,326.65
+27,383,2023-09-23,2023-12-24,First Class,India,East,Kolkata,Consumer,Furniture,Binders,1779.95,8,0.43,421.6
+28,238,2023-11-28,2023-12-24,First Class,India,West,Delhi,Consumer,Technology,Tables,3798.72,5,0.27,792.11
+29,293,2023-01-09,2023-03-29,Same Day,India,North,Kolkata,Home Office,Office Supplies,Tables,532.34,9,0.32,353.59
+30,362,2023-04-23,2023-10-03,Standard Class,India,South,Delhi,Corporate,Office Supplies,Binders,1188.8,8,0.15,894.33
+31,251,2023-05-04,2023-09-29,First Class,India,North,Delhi,Home Office,Office Supplies,Chairs,1269.42,7,0.21,-69.53
+32,69,2023-04-10,2023-07-13,Standard Class,India,West,Kolkata,Home Office,Office Supplies,Chairs,3452.69,6,0.09,947.65
+33,489,2023-04-27,2023-10-11,First Class,India,East,Chennai,Home Office,Furniture,Chairs,4230.74,8,0.17,-56.75
+34,90,2023-09-16,2023-10-07,First Class,India,West,Delhi,Home Office,Technology,Tables,824.89,4,0.17,685.85
+35,364,2023-12-17,2024-01-08,First Class,India,West,Pune,Home Office,Office Supplies,Tables,1489.79,10,0.4,187.2
+36,272,2023-06-16,2023-09-02,Same Day,India,East,Chennai,Corporate,Technology,Accessories,2398.73,5,0.01,604.34
+37,444,2023-06-09,2023-07-14,Second Class,India,South,Chennai,Home Office,Technology,Phones,220.34,9,0.28,-55.4
+38,453,2023-02-28,2023-10-14,Second Class,India,South,Kolkata,Corporate,Office Supplies,Phones,1387.71,5,0.32,852.47
+39,166,2023-03-04,2023-12-11,Second Class,India,North,Mumbai,Corporate,Furniture,Accessories,705.32,10,0.26,672.13
+40,255,2023-08-08,2023-10-15,First Class,India,East,Chennai,Home Office,Technology,Accessories,3991.43,6,0.38,-86.44
+41,261,2023-06-02,2023-07-12,Second Class,India,East,Chennai,Corporate,Office Supplies,Tables,4686.21,10,0.2,995.28
+42,38,2023-10-29,2023-11-03,Same Day,India,West,Kolkata,Consumer,Technology,Accessories,140.94,2,0.08,824.14
+43,422,2023-12-08,2023-12-22,Same Day,India,South,Mumbai,Home Office,Furniture,Tables,192.11,4,0.45,142.72
+44,87,2023-11-03,2023-12-04,Standard Class,India,North,Pune,Corporate,Furniture,Chairs,637.6,8,0.05,53.82
+45,212,2023-05-17,2023-10-10,Second Class,India,North,Kolkata,Home Office,Furniture,Accessories,3143.13,3,0.43,449.43
+46,194,2023-11-27,2023-11-29,Standard Class,India,East,Kolkata,Corporate,Technology,Tables,4853.76,7,0.01,770.47
+47,225,2023-06-17,2023-08-13,Second Class,India,East,Kolkata,Corporate,Office Supplies,Phones,3082.82,4,0.27,-93.23
+48,161,2023-08-31,2023-09-05,Same Day,India,South,Delhi,Home Office,Office Supplies,Accessories,2651.63,6,0.46,197.61
+49,140,2023-10-30,2023-12-01,First Class,India,East,Chennai,Consumer,Technology,Chairs,308.89,7,0.13,10.88
+50,424,2023-05-12,2023-11-29,First Class,India,North,Delhi,Home Office,Office Supplies,Phones,1358.17,9,0.06,3.71
+51,379,2023-04-06,2023-05-27,Standard Class,India,West,Chennai,Home Office,Office Supplies,Tables,3757.69,2,0.36,954.24
+52,17,2023-07-09,2023-09-06,Standard Class,India,South,Delhi,Corporate,Furniture,Tables,3572.62,5,0.03,62.24
+53,497,2023-07-23,2023-11-28,First Class,India,West,Bengaluru,Corporate,Office Supplies,Chairs,4647.03,5,0.35,103.45
+54,203,2023-01-13,2023-01-18,Standard Class,India,North,Delhi,Home Office,Furniture,Accessories,1999.62,6,0.02,517.87
+55,230,2023-04-15,2023-10-16,First Class,India,West,Bengaluru,Home Office,Technology,Tables,1776.58,9,0.1,755.43
+56,413,2023-03-28,2023-07-08,Standard Class,India,South,Delhi,Home Office,Furniture,Accessories,4968.25,1,0.16,586.11
+57,269,2023-10-26,2023-11-04,Second Class,India,West,Kolkata,Corporate,Technology,Phones,328.73,5,0.15,335.62
+58,226,2023-08-12,2023-10-12,Same Day,India,North,Chennai,Consumer,Technology,Binders,1229.34,9,0.1,657.57
+59,391,2023-03-12,2023-09-23,Same Day,India,East,Mumbai,Consumer,Furniture,Chairs,965.52,9,0.07,875.43
+60,458,2023-01-08,2023-04-30,First Class,India,East,Kolkata,Corporate,Office Supplies,Phones,3997.69,4,0.27,183.17
+61,335,2023-04-23,2023-09-13,Second Class,India,South,Chennai,Corporate,Office Supplies,Tables,4942.04,5,0.19,-36.23
+62,177,2023-01-09,2023-11-06,Same Day,India,North,Delhi,Home Office,Office Supplies,Accessories,767.94,3,0.04,449.44
+63,297,2023-03-30,2023-06-21,First Class,India,East,Chennai,Home Office,Furniture,Tables,2721.15,2,0.5,884.2
+64,270,2023-06-15,2023-06-24,Second Class,India,North,Kolkata,Corporate,Office Supplies,Phones,778.06,6,0.01,493.03
+65,1,2023-03-17,2024-01-08,Standard Class,India,North,Hyderabad,Corporate,Office Supplies,Phones,990.46,3,0.43,931.31
+66,216,2023-06-04,2023-11-02,First Class,India,South,Mumbai,Corporate,Furniture,Chairs,1579.44,3,0.17,963.84
+67,374,2023-02-16,2023-08-13,First Class,India,South,Hyderabad,Consumer,Office Supplies,Chairs,3353.97,6,0.24,995.99
+68,385,2023-11-14,2023-11-25,Same Day,India,North,Bengaluru,Corporate,Office Supplies,Chairs,597.51,5,0.22,455.65
+69,111,2023-12-08,2023-12-24,First Class,India,South,Bengaluru,Consumer,Office Supplies,Chairs,343.27,8,0.34,717.55
+70,343,2023-10-09,2023-10-29,Second Class,India,South,Chennai,Consumer,Furniture,Tables,1989.32,1,0.37,636.28
+71,485,2023-10-03,2023-12-21,First Class,India,South,Pune,Corporate,Technology,Phones,4557.49,9,0.42,648.12
+72,395,2023-10-04,2023-11-22,Same Day,India,South,Chennai,Home Office,Office Supplies,Tables,4931.5,4,0.16,706.19
+73,129,2023-07-01,2023-09-11,Same Day,India,West,Bengaluru,Corporate,Furniture,Binders,4758.2,7,0.48,739.85
+74,194,2023-07-01,2023-10-15,Same Day,India,South,Bengaluru,Home Office,Office Supplies,Tables,410.26,1,0.44,735.87
+75,440,2023-05-27,2023-09-26,Second Class,India,South,Mumbai,Corporate,Technology,Accessories,4073.19,4,0.36,735.87
+76,28,2023-03-26,2023-07-20,Standard Class,India,West,Pune,Corporate,Office Supplies,Chairs,2484.43,8,0.04,500.97
+77,197,2023-07-28,2024-01-02,First Class,India,North,Chennai,Consumer,Furniture,Accessories,372.61,7,0.3,280.97
+78,190,2023-10-02,2023-12-26,Second Class,India,West,Delhi,Corporate,Office Supplies,Tables,2823.05,10,0.5,794.91
+79,454,2023-12-21,2024-01-02,Standard Class,India,West,Mumbai,Home Office,Furniture,Phones,4178.86,4,0.01,214.32
+80,376,2023-02-12,2023-05-31,Second Class,India,East,Hyderabad,Home Office,Office Supplies,Chairs,2075.46,5,0.07,85.27
+81,327,2023-09-01,2023-12-03,Standard Class,India,West,Kolkata,Corporate,Office Supplies,Phones,1792.98,9,0.09,193.53
+82,475,2023-01-12,2023-11-12,Same Day,India,West,Delhi,Home Office,Technology,Chairs,1073.14,2,0.32,-23.66
+83,493,2023-09-14,2023-12-07,First Class,India,West,Bengaluru,Home Office,Office Supplies,Tables,3828.86,1,0.45,-53.56
+84,88,2023-05-01,2024-01-04,Second Class,India,South,Bengaluru,Corporate,Furniture,Tables,723.21,1,0.21,256.3
+85,148,2023-05-07,2023-08-30,Same Day,India,South,Delhi,Home Office,Office Supplies,Tables,2602.96,1,0.31,726.66
+86,262,2023-03-16,2023-10-30,Same Day,India,East,Kolkata,Corporate,Furniture,Tables,4886.96,6,0.32,839.39
+87,254,2023-12-20,2023-12-26,First Class,India,East,Bengaluru,Home Office,Technology,Phones,3480.69,1,0.46,56.14
+88,400,2023-03-02,2023-09-30,Second Class,India,North,Kolkata,Home Office,Office Supplies,Binders,2581.27,6,0.37,-51.89
+89,63,2023-04-08,2023-09-23,Standard Class,India,North,Bengaluru,Home Office,Office Supplies,Binders,1537.48,4,0.21,223.12
+90,177,2023-10-14,2023-12-30,Same Day,India,East,Hyderabad,Consumer,Technology,Phones,341.72,2,0.06,954.12
+91,393,2023-09-19,2023-11-14,Standard Class,India,North,Mumbai,Corporate,Furniture,Tables,2386.46,10,0.47,674.11
+92,5,2023-11-26,2023-12-09,First Class,India,East,Bengaluru,Consumer,Office Supplies,Phones,1977.46,3,0.26,230.77
+93,321,2023-07-27,2023-09-08,Second Class,India,East,Bengaluru,Home Office,Technology,Tables,3326.37,2,0.47,-28.03
+94,146,2023-12-25,2024-01-06,Second Class,India,South,Pune,Consumer,Furniture,Binders,155.31,3,0.09,404.0
+95,12,2023-11-27,2023-11-30,First Class,India,North,Kolkata,Home Office,Technology,Phones,1870.93,3,0.04,733.84
+96,232,2023-04-29,2023-06-07,Standard Class,India,North,Bengaluru,Home Office,Technology,Binders,4034.61,2,0.44,463.26
+97,139,2023-10-29,2023-12-03,First Class,India,West,Mumbai,Consumer,Office Supplies,Chairs,794.19,10,0.15,111.12
+98,482,2023-03-12,2023-04-26,Same Day,India,West,Bengaluru,Corporate,Furniture,Chairs,4031.44,4,0.13,133.38
+99,274,2023-08-25,2023-10-14,Standard Class,India,East,Kolkata,Consumer,Furniture,Chairs,3901.01,4,0.25,-83.55
+100,222,2023-02-12,2024-01-02,Second Class,India,North,Delhi,Consumer,Furniture,Accessories,2613.23,4,0.09,734.87
+101,105,2023-11-05,2023-11-27,First Class,India,West,Kolkata,Home Office,Office Supplies,Phones,3032.0,8,0.13,432.67
+102,225,2023-09-23,2023-10-22,Second Class,India,North,Chennai,Home Office,Technology,Tables,3724.89,7,0.08,71.22
+103,66,2023-11-07,2023-11-17,Same Day,India,East,Hyderabad,Consumer,Furniture,Chairs,4339.8,10,0.46,876.58
+104,138,2023-06-27,2023-07-31,First Class,India,South,Hyderabad,Corporate,Office Supplies,Phones,977.56,9,0.42,217.32
+105,486,2023-04-06,2023-11-03,Second Class,India,South,Delhi,Corporate,Furniture,Phones,3219.17,6,0.25,211.13
+106,448,2023-10-16,2023-11-03,First Class,India,North,Chennai,Home Office,Office Supplies,Phones,4867.79,1,0.12,234.16
+107,129,2023-07-20,2023-12-01,Same Day,India,North,Mumbai,Consumer,Office Supplies,Binders,4210.48,3,0.44,375.82
+108,315,2023-06-25,2023-11-07,Same Day,India,North,Delhi,Consumer,Office Supplies,Tables,3102.68,8,0.1,260.07
+109,462,2023-09-18,2023-10-04,First Class,India,South,Pune,Home Office,Office Supplies,Binders,3868.17,8,0.49,79.45
+110,57,2023-08-29,2023-09-02,Second Class,India,West,Chennai,Consumer,Technology,Tables,4096.52,1,0.14,193.98
+111,60,2023-04-19,2023-10-02,First Class,India,West,Kolkata,Consumer,Furniture,Phones,2874.95,2,0.24,-4.17
+112,344,2023-01-20,2023-01-23,Standard Class,India,North,Mumbai,Home Office,Technology,Chairs,85.14,6,0.12,10.64
+113,99,2023-11-12,2023-12-28,Standard Class,India,West,Hyderabad,Corporate,Furniture,Tables,265.86,3,0.37,837.97
+114,351,2023-03-10,2023-10-01,Standard Class,India,East,Hyderabad,Corporate,Technology,Chairs,3689.35,8,0.43,-21.25
+115,176,2023-03-01,2023-06-07,First Class,India,East,Pune,Corporate,Furniture,Accessories,841.29,5,0.32,26.63
+116,281,2023-11-13,2024-01-03,First Class,India,East,Hyderabad,Corporate,Office Supplies,Chairs,3180.91,9,0.21,821.38
+117,369,2023-02-13,2023-10-03,First Class,India,South,Pune,Corporate,Office Supplies,Accessories,824.54,2,0.28,294.4
+118,388,2023-08-21,2023-10-28,Second Class,India,North,Bengaluru,Consumer,Furniture,Chairs,1590.82,2,0.1,-57.79
+119,442,2023-08-08,2023-12-04,Same Day,India,North,Bengaluru,Corporate,Furniture,Accessories,3625.67,2,0.33,-81.13
+120,200,2023-12-30,2024-01-06,Second Class,India,West,Kolkata,Consumer,Furniture,Phones,2471.36,6,0.11,967.28
+121,395,2023-12-28,2024-01-07,Same Day,India,South,Mumbai,Home Office,Technology,Accessories,3140.11,4,0.33,156.31
+122,138,2023-01-30,2024-01-04,First Class,India,South,Pune,Home Office,Furniture,Tables,1703.58,6,0.48,201.0
+123,483,2023-05-27,2023-12-31,Same Day,India,South,Hyderabad,Consumer,Office Supplies,Phones,675.49,8,0.06,-40.09
+124,165,2023-08-16,2024-01-02,Standard Class,India,North,Mumbai,Consumer,Furniture,Chairs,4733.18,8,0.12,39.36
+125,119,2023-10-12,2023-11-20,Second Class,India,East,Chennai,Home Office,Office Supplies,Phones,2832.26,6,0.2,-7.45
+126,15,2023-06-17,2023-07-29,Same Day,India,South,Mumbai,Consumer,Furniture,Phones,3419.51,8,0.22,910.07
+127,44,2023-09-13,2023-12-19,Same Day,India,North,Mumbai,Corporate,Furniture,Accessories,2149.12,9,0.4,381.77
+128,395,2023-07-13,2023-12-16,Second Class,India,South,Chennai,Consumer,Office Supplies,Tables,819.43,6,0.41,-35.95
+129,63,2023-05-09,2023-08-29,Same Day,India,East,Kolkata,Home Office,Technology,Phones,1885.58,4,0.03,-72.01
+130,446,2023-06-14,2023-12-25,Second Class,India,East,Bengaluru,Corporate,Office Supplies,Accessories,764.09,4,0.02,832.12
+131,217,2023-12-23,2024-01-02,Same Day,India,North,Kolkata,Consumer,Technology,Chairs,707.81,9,0.29,777.13
+132,55,2023-03-15,2023-07-15,First Class,India,West,Kolkata,Consumer,Office Supplies,Chairs,936.58,2,0.29,278.47
+133,484,2023-01-01,2023-09-10,First Class,India,East,Bengaluru,Corporate,Technology,Chairs,3946.18,1,0.19,323.1
+134,27,2023-05-15,2023-10-01,Same Day,India,West,Mumbai,Corporate,Office Supplies,Chairs,1398.51,4,0.22,519.72
+135,96,2023-11-29,2023-12-05,Same Day,India,East,Hyderabad,Consumer,Technology,Accessories,1382.76,10,0.36,851.67
+136,126,2023-04-13,2023-10-10,First Class,India,West,Kolkata,Corporate,Technology,Binders,2602.93,9,0.45,672.2
+137,453,2023-06-26,2023-10-29,First Class,India,East,Mumbai,Corporate,Furniture,Binders,3065.75,4,0.35,887.77
+138,165,2023-06-02,2023-10-28,First Class,India,South,Bengaluru,Home Office,Technology,Binders,2664.88,10,0.45,502.57
+139,333,2023-07-26,2023-12-23,Second Class,India,West,Mumbai,Home Office,Technology,Phones,584.28,9,0.22,641.99
+140,347,2023-06-26,2023-11-20,Standard Class,India,West,Bengaluru,Consumer,Office Supplies,Accessories,684.06,8,0.25,64.3
+141,87,2023-07-24,2023-10-20,Same Day,India,South,Kolkata,Corporate,Office Supplies,Binders,304.53,9,0.42,977.12
+142,190,2023-06-15,2023-07-05,Second Class,India,North,Pune,Home Office,Technology,Tables,3749.98,1,0.23,28.86
+143,5,2023-09-01,2023-10-23,Second Class,India,West,Bengaluru,Consumer,Furniture,Phones,724.37,2,0.24,282.55
+144,157,2023-05-19,2023-12-09,Second Class,India,North,Kolkata,Corporate,Furniture,Binders,4905.49,7,0.14,-28.84
+145,392,2023-03-13,2023-05-30,Same Day,India,East,Mumbai,Home Office,Furniture,Binders,4036.11,7,0.17,-91.96
+146,301,2023-09-25,2023-11-08,Second Class,India,West,Hyderabad,Home Office,Office Supplies,Accessories,1875.21,3,0.21,929.88
+147,196,2023-02-01,2023-04-13,First Class,India,East,Delhi,Home Office,Office Supplies,Tables,4164.76,4,0.43,838.2
+148,237,2023-06-28,2023-08-10,Second Class,India,South,Chennai,Corporate,Office Supplies,Phones,4439.33,3,0.3,560.66
+149,276,2023-05-14,2024-01-04,Second Class,India,North,Bengaluru,Consumer,Technology,Chairs,2472.26,10,0.44,365.61
+150,169,2023-10-30,2023-12-24,Standard Class,India,East,Bengaluru,Consumer,Technology,Accessories,487.98,6,0.46,629.28
+151,196,2023-12-22,2023-12-31,Second Class,India,East,Hyderabad,Consumer,Office Supplies,Tables,2211.63,7,0.16,337.44
+152,120,2023-09-18,2023-10-25,Same Day,India,West,Chennai,Home Office,Furniture,Binders,2500.49,9,0.11,860.06
+153,495,2023-09-07,2023-11-11,Same Day,India,North,Chennai,Home Office,Office Supplies,Accessories,4726.69,6,0.29,900.79
+154,208,2023-11-06,2023-12-30,Standard Class,India,South,Pune,Consumer,Technology,Accessories,1211.07,8,0.41,727.56
+155,126,2023-01-08,2023-10-03,Second Class,India,South,Mumbai,Consumer,Technology,Tables,684.2,10,0.32,647.76
+156,210,2023-05-25,2023-06-05,Second Class,India,East,Delhi,Corporate,Office Supplies,Accessories,4029.87,3,0.17,478.7
+157,13,2023-04-21,2023-09-23,Same Day,India,West,Kolkata,Home Office,Office Supplies,Chairs,4977.05,9,0.07,463.31
+158,112,2023-01-06,2023-04-20,Second Class,India,West,Kolkata,Corporate,Office Supplies,Binders,3025.49,3,0.32,20.13
+159,387,2023-01-14,2023-11-14,First Class,India,East,Bengaluru,Home Office,Furniture,Tables,1221.85,1,0.05,-27.99
+160,354,2023-05-07,2023-11-23,Same Day,India,North,Chennai,Corporate,Technology,Binders,4617.61,10,0.28,276.42
+161,274,2023-10-08,2023-11-11,Same Day,India,West,Bengaluru,Home Office,Furniture,Phones,1085.6,5,0.47,817.41
+162,114,2023-11-29,2024-01-09,Second Class,India,East,Delhi,Home Office,Technology,Tables,1705.81,6,0.35,444.1
+163,244,2023-09-21,2023-11-07,First Class,India,North,Bengaluru,Corporate,Office Supplies,Binders,4648.35,2,0.34,-60.39
+164,304,2023-11-18,2023-12-26,Second Class,India,South,Pune,Home Office,Furniture,Accessories,746.96,10,0.22,777.4
+165,98,2023-11-20,2024-01-02,Standard Class,India,North,Hyderabad,Corporate,Furniture,Chairs,3617.77,7,0.27,365.85
+166,84,2023-09-11,2024-01-04,Standard Class,India,East,Kolkata,Consumer,Office Supplies,Binders,2979.45,4,0.43,286.23
+167,154,2023-03-21,2023-11-13,First Class,India,South,Bengaluru,Consumer,Technology,Accessories,3731.74,10,0.08,995.35
+168,220,2023-11-24,2023-12-18,Same Day,India,South,Delhi,Home Office,Technology,Binders,1739.22,1,0.11,358.44
+169,94,2023-05-02,2023-07-03,Same Day,India,North,Delhi,Home Office,Technology,Chairs,4109.78,10,0.24,-22.43
+170,454,2023-06-20,2023-11-26,Same Day,India,West,Pune,Home Office,Technology,Tables,3317.5,6,0.09,-66.58
+171,191,2023-05-28,2023-05-31,Second Class,India,East,Mumbai,Consumer,Furniture,Accessories,4172.0,10,0.46,603.9
+172,357,2023-09-30,2023-11-27,Same Day,India,East,Kolkata,Corporate,Furniture,Chairs,4258.04,6,0.25,608.65
+173,365,2023-07-01,2024-01-07,Same Day,India,South,Chennai,Home Office,Technology,Binders,476.47,10,0.32,142.35
+174,264,2023-02-14,2023-07-12,Standard Class,India,South,Bengaluru,Corporate,Furniture,Phones,1192.46,6,0.1,561.73
+175,132,2023-08-17,2023-09-10,Standard Class,India,East,Chennai,Consumer,Furniture,Binders,1374.96,1,0.11,648.91
+176,228,2023-01-06,2023-08-03,First Class,India,North,Bengaluru,Corporate,Office Supplies,Chairs,1485.46,1,0.13,306.05
+177,479,2023-03-01,2023-04-08,First Class,India,West,Delhi,Consumer,Office Supplies,Tables,4530.47,8,0.31,409.48
+178,73,2023-08-27,2023-10-28,Same Day,India,East,Hyderabad,Corporate,Office Supplies,Phones,375.91,2,0.35,816.62
+179,246,2023-01-12,2023-04-27,Second Class,India,South,Hyderabad,Corporate,Office Supplies,Chairs,543.31,10,0.09,432.29
+180,413,2023-01-05,2023-12-03,Second Class,India,East,Bengaluru,Consumer,Office Supplies,Accessories,1248.19,6,0.4,42.94
+181,182,2023-11-03,2024-01-03,First Class,India,East,Mumbai,Consumer,Furniture,Chairs,1743.56,8,0.44,958.03
+182,496,2023-07-12,2023-10-30,Second Class,India,East,Mumbai,Corporate,Office Supplies,Binders,4784.41,1,0.24,-23.2
+183,13,2023-12-30,2024-01-04,First Class,India,East,Pune,Home Office,Technology,Binders,1049.19,5,0.49,655.52
+184,228,2023-09-25,2023-10-09,Same Day,India,West,Mumbai,Home Office,Technology,Accessories,3371.97,2,0.3,62.21
+185,449,2023-04-16,2023-05-30,Standard Class,India,North,Hyderabad,Corporate,Furniture,Binders,4087.16,8,0.29,433.5
+186,235,2023-01-01,2023-09-29,Same Day,India,North,Hyderabad,Consumer,Technology,Binders,4804.38,3,0.2,-46.52
+187,204,2023-04-12,2023-08-13,Standard Class,India,East,Hyderabad,Home Office,Office Supplies,Phones,714.98,7,0.39,256.82
+188,159,2023-08-20,2023-11-07,First Class,India,South,Kolkata,Corporate,Office Supplies,Tables,2185.47,10,0.24,328.37
+189,146,2023-05-24,2023-09-24,Second Class,India,West,Hyderabad,Corporate,Furniture,Chairs,4400.69,8,0.39,487.55
+190,307,2023-02-02,2023-03-13,First Class,India,North,Kolkata,Corporate,Technology,Accessories,2765.04,4,0.05,936.83
+191,317,2023-01-19,2023-05-13,Standard Class,India,North,Pune,Home Office,Office Supplies,Accessories,1889.15,9,0.11,399.73
+192,149,2023-02-01,2023-08-25,Standard Class,India,West,Mumbai,Corporate,Office Supplies,Tables,3929.84,1,0.16,159.49
+193,121,2023-05-30,2023-10-04,First Class,India,East,Hyderabad,Corporate,Furniture,Tables,3781.42,3,0.28,10.05
+194,267,2023-03-08,2023-09-04,Same Day,India,West,Hyderabad,Consumer,Technology,Accessories,619.23,6,0.23,629.48
+195,204,2023-07-13,2023-09-16,First Class,India,North,Hyderabad,Home Office,Technology,Chairs,1346.66,1,0.48,417.9
+196,73,2023-06-11,2023-12-08,Second Class,India,East,Chennai,Home Office,Office Supplies,Phones,4289.9,10,0.2,794.47
+197,42,2023-10-25,2023-11-14,Standard Class,India,East,Bengaluru,Corporate,Office Supplies,Accessories,2902.89,4,0.14,825.11
+198,348,2023-10-25,2023-12-19,Standard Class,India,North,Delhi,Corporate,Office Supplies,Accessories,4123.93,10,0.46,276.65
+199,466,2023-03-29,2023-05-09,First Class,India,South,Chennai,Consumer,Technology,Tables,3879.01,2,0.04,575.79
+200,170,2023-08-26,2023-08-26,Same Day,India,South,Chennai,Corporate,Furniture,Chairs,60.08,7,0.1,863.72
+201,101,2023-06-05,2023-09-21,Same Day,India,North,Bengaluru,Consumer,Office Supplies,Phones,277.84,7,0.4,0.84
+202,203,2023-07-21,2023-10-30,Standard Class,India,North,Mumbai,Corporate,Furniture,Phones,545.74,6,0.06,-84.78
+203,356,2023-08-29,2023-08-29,First Class,India,West,Pune,Home Office,Office Supplies,Tables,4877.11,7,0.44,726.11
+204,350,2023-04-23,2023-10-25,Second Class,India,West,Hyderabad,Consumer,Furniture,Tables,1583.19,2,0.09,482.08
+205,2,2023-01-25,2023-01-25,Second Class,India,West,Chennai,Consumer,Furniture,Tables,2704.34,2,0.2,302.72
+206,323,2023-01-26,2023-09-08,Standard Class,India,North,Delhi,Corporate,Technology,Tables,2328.22,4,0.19,767.03
+207,487,2023-07-05,2023-11-12,Second Class,India,South,Mumbai,Consumer,Furniture,Binders,3435.46,3,0.26,-45.29
+208,4,2023-05-25,2023-09-09,Same Day,India,South,Kolkata,Consumer,Furniture,Accessories,1618.58,4,0.09,319.64
+209,303,2023-05-18,2023-07-13,Second Class,India,South,Hyderabad,Home Office,Technology,Chairs,223.0,8,0.39,602.72
+210,424,2023-02-18,2023-11-03,Standard Class,India,East,Pune,Home Office,Furniture,Binders,2232.88,4,0.02,632.83
+211,390,2023-10-04,2023-10-29,Second Class,India,East,Bengaluru,Home Office,Furniture,Chairs,4235.34,8,0.46,-78.66
+212,209,2023-06-21,2024-01-03,Same Day,India,West,Hyderabad,Consumer,Furniture,Chairs,3901.57,8,0.35,993.29
+213,324,2023-07-10,2023-10-26,Standard Class,India,West,Pune,Corporate,Technology,Tables,1809.46,6,0.23,775.3
+214,116,2023-12-05,2023-12-28,Second Class,India,East,Hyderabad,Consumer,Technology,Chairs,3761.46,2,0.24,75.62
+215,35,2023-05-12,2023-07-22,Standard Class,India,East,Chennai,Corporate,Office Supplies,Accessories,457.17,10,0.22,250.11
+216,317,2023-10-06,2023-12-21,Same Day,India,North,Chennai,Consumer,Furniture,Chairs,2772.0,10,0.46,321.28
+217,59,2023-01-21,2023-06-02,Same Day,India,West,Chennai,Consumer,Office Supplies,Accessories,4188.02,7,0.23,-17.15
+218,30,2023-09-10,2023-11-25,First Class,India,South,Kolkata,Consumer,Technology,Tables,1979.25,3,0.24,417.42
+219,430,2023-07-30,2023-11-29,Second Class,India,East,Delhi,Consumer,Office Supplies,Tables,554.92,8,0.46,807.75
+220,127,2023-12-25,2023-12-26,Second Class,India,East,Mumbai,Home Office,Office Supplies,Accessories,4511.16,5,0.28,408.02
+221,484,2023-02-27,2023-03-03,Same Day,India,East,Pune,Consumer,Office Supplies,Phones,2453.13,5,0.21,61.61
+222,113,2023-07-17,2023-12-20,First Class,India,North,Pune,Consumer,Furniture,Tables,1307.92,6,0.27,138.73
+223,16,2023-12-05,2024-01-04,First Class,India,West,Hyderabad,Consumer,Furniture,Phones,1744.25,1,0.0,954.74
+224,227,2023-02-10,2023-08-26,First Class,India,North,Mumbai,Consumer,Furniture,Tables,3217.1,1,0.43,431.28
+225,25,2023-08-17,2023-09-10,Same Day,India,South,Mumbai,Home Office,Office Supplies,Binders,2962.57,8,0.07,731.35
+226,259,2023-09-22,2023-10-31,First Class,India,South,Hyderabad,Consumer,Furniture,Binders,3270.92,5,0.25,85.66
+227,379,2023-03-30,2023-08-23,Standard Class,India,South,Mumbai,Home Office,Office Supplies,Binders,2651.72,10,0.0,515.67
+228,231,2023-07-11,2023-11-18,Standard Class,India,East,Bengaluru,Consumer,Technology,Binders,2314.88,3,0.27,738.36
+229,191,2023-12-17,2023-12-21,Second Class,India,North,Pune,Corporate,Office Supplies,Accessories,1808.44,8,0.25,389.95
+230,36,2023-04-30,2023-07-31,Second Class,India,North,Kolkata,Consumer,Office Supplies,Binders,691.67,9,0.02,213.84
+231,243,2023-03-07,2023-07-11,Same Day,India,West,Hyderabad,Consumer,Office Supplies,Chairs,4970.88,4,0.25,168.71
+232,67,2023-07-31,2023-11-11,Second Class,India,North,Mumbai,Home Office,Furniture,Accessories,2888.29,7,0.07,125.22
+233,343,2023-09-23,2023-10-07,Second Class,India,East,Chennai,Home Office,Furniture,Tables,613.48,9,0.37,899.58
+234,15,2023-05-23,2023-06-17,Same Day,India,East,Bengaluru,Consumer,Furniture,Accessories,2403.73,4,0.07,547.58
+235,230,2023-06-23,2023-09-10,First Class,India,South,Mumbai,Consumer,Technology,Chairs,2612.13,10,0.23,671.15
+236,26,2023-01-31,2024-01-01,Standard Class,India,North,Bengaluru,Corporate,Technology,Binders,2505.57,6,0.5,852.02
+237,46,2023-10-09,2023-12-07,Standard Class,India,South,Bengaluru,Corporate,Technology,Phones,401.0,3,0.11,155.0
+238,182,2023-07-02,2023-07-06,Same Day,India,West,Pune,Home Office,Furniture,Tables,279.95,2,0.21,93.99
+239,153,2023-12-15,2023-12-19,Same Day,India,South,Pune,Home Office,Technology,Accessories,4278.31,10,0.02,392.28
+240,372,2023-03-09,2023-07-25,Second Class,India,North,Chennai,Corporate,Office Supplies,Binders,189.15,5,0.37,819.08
+241,500,2023-04-04,2023-06-03,Second Class,India,North,Hyderabad,Corporate,Office Supplies,Tables,4416.25,1,0.46,689.35
+242,217,2023-08-31,2023-12-29,Second Class,India,West,Bengaluru,Home Office,Technology,Chairs,986.69,7,0.02,952.79
+243,481,2023-03-12,2023-09-21,Standard Class,India,East,Bengaluru,Home Office,Office Supplies,Chairs,2246.51,3,0.21,199.38
+244,471,2023-02-19,2023-05-17,Second Class,India,North,Delhi,Consumer,Furniture,Binders,396.66,1,0.43,-55.93
+245,245,2023-02-06,2023-04-24,First Class,India,West,Pune,Home Office,Technology,Binders,3383.71,6,0.35,835.94
+246,16,2023-12-05,2023-12-06,First Class,India,North,Delhi,Corporate,Technology,Binders,4337.96,10,0.5,283.61
+247,88,2023-03-29,2023-10-31,Standard Class,India,South,Chennai,Home Office,Office Supplies,Accessories,2204.73,7,0.4,629.09
+248,435,2023-10-28,2023-11-11,Same Day,India,South,Pune,Consumer,Technology,Tables,2119.62,6,0.48,734.33
+249,109,2023-02-12,2023-11-03,Same Day,India,North,Mumbai,Consumer,Office Supplies,Chairs,1276.0,9,0.36,73.12
+250,29,2023-04-04,2023-06-19,Second Class,India,South,Pune,Corporate,Furniture,Binders,4046.58,2,0.41,73.32
+251,401,2023-09-24,2023-11-24,First Class,India,West,Bengaluru,Home Office,Office Supplies,Accessories,678.61,6,0.23,803.7
+252,81,2023-08-15,2023-11-08,First Class,India,South,Chennai,Corporate,Office Supplies,Accessories,2934.26,10,0.03,676.73
+253,184,2023-05-25,2023-07-05,Same Day,India,North,Kolkata,Consumer,Furniture,Accessories,4167.03,7,0.15,516.5
+254,121,2023-12-19,2023-12-31,First Class,India,West,Hyderabad,Consumer,Office Supplies,Binders,1909.59,9,0.45,-10.89
+255,121,2023-03-17,2023-12-30,Standard Class,India,West,Delhi,Corporate,Office Supplies,Tables,2711.03,7,0.03,495.73
+256,458,2023-10-04,2023-11-13,First Class,India,North,Mumbai,Home Office,Furniture,Tables,2805.91,2,0.13,674.6
+257,471,2023-01-16,2023-05-10,Standard Class,India,North,Pune,Consumer,Furniture,Chairs,876.49,1,0.2,676.55
+258,176,2023-08-14,2023-08-27,First Class,India,North,Delhi,Consumer,Office Supplies,Chairs,1911.38,1,0.27,304.74
+259,24,2023-04-17,2023-08-14,First Class,India,South,Kolkata,Consumer,Furniture,Chairs,3309.01,3,0.27,146.79
+260,439,2023-03-08,2023-04-14,Second Class,India,North,Chennai,Corporate,Technology,Binders,3543.44,5,0.37,96.45
+261,72,2023-04-29,2023-12-24,Standard Class,India,North,Delhi,Corporate,Office Supplies,Chairs,3708.22,8,0.49,-20.17
+262,7,2023-07-16,2023-12-23,First Class,India,North,Pune,Corporate,Office Supplies,Tables,1342.33,1,0.23,-80.16
+263,251,2023-12-24,2023-12-29,Standard Class,India,North,Hyderabad,Home Office,Furniture,Chairs,2068.97,7,0.43,371.32
+264,296,2023-07-04,2023-07-07,Same Day,India,South,Hyderabad,Corporate,Technology,Binders,1542.58,4,0.09,798.82
+265,42,2023-01-15,2023-04-05,Same Day,India,South,Chennai,Consumer,Technology,Chairs,2769.95,9,0.07,-15.14
+266,416,2023-12-17,2024-01-02,Second Class,India,East,Delhi,Corporate,Office Supplies,Binders,4711.88,1,0.1,774.39
+267,404,2023-10-20,2023-12-21,Same Day,India,West,Bengaluru,Home Office,Furniture,Tables,961.65,6,0.09,249.03
+268,407,2023-04-21,2023-07-09,Standard Class,India,North,Kolkata,Corporate,Office Supplies,Tables,2089.36,10,0.04,-79.84
+269,277,2023-01-13,2023-03-10,Second Class,India,East,Kolkata,Corporate,Office Supplies,Chairs,1365.14,8,0.06,90.07
+270,232,2023-10-15,2023-11-25,Same Day,India,East,Chennai,Corporate,Furniture,Chairs,81.6,4,0.01,872.47
+271,413,2023-05-28,2023-11-05,Second Class,India,North,Mumbai,Corporate,Technology,Phones,4918.47,10,0.02,673.04
+272,99,2023-12-25,2024-01-04,Same Day,India,North,Pune,Consumer,Technology,Phones,2467.04,5,0.38,851.81
+273,22,2023-10-05,2024-01-08,Standard Class,India,East,Chennai,Home Office,Furniture,Accessories,372.25,8,0.3,562.83
+274,97,2023-11-10,2023-12-26,Same Day,India,East,Chennai,Home Office,Office Supplies,Accessories,3853.6,2,0.14,-78.21
+275,10,2023-04-27,2023-10-25,First Class,India,North,Mumbai,Corporate,Furniture,Tables,2071.89,5,0.23,789.16
+276,177,2023-06-12,2023-07-02,Standard Class,India,East,Pune,Corporate,Technology,Chairs,4456.14,2,0.46,398.5
+277,72,2023-02-09,2024-01-03,First Class,India,East,Hyderabad,Home Office,Technology,Chairs,1595.69,3,0.4,643.85
+278,427,2023-01-15,2023-07-18,Standard Class,India,South,Chennai,Corporate,Furniture,Phones,2476.29,6,0.23,261.73
+279,463,2023-01-10,2023-03-21,Same Day,India,East,Delhi,Home Office,Office Supplies,Chairs,4121.5,1,0.25,-65.99
+280,120,2023-05-16,2023-05-20,Second Class,India,West,Bengaluru,Home Office,Technology,Accessories,3355.96,3,0.27,-74.72
+281,448,2023-03-06,2023-11-21,Standard Class,India,South,Hyderabad,Corporate,Technology,Tables,4084.54,8,0.49,598.41
+282,462,2023-02-19,2023-10-29,Standard Class,India,North,Delhi,Corporate,Office Supplies,Phones,2465.55,10,0.41,475.04
+283,62,2023-09-14,2023-12-20,Same Day,India,North,Pune,Corporate,Technology,Binders,1831.15,7,0.25,16.95
+284,479,2023-01-30,2024-01-03,Second Class,India,North,Mumbai,Corporate,Furniture,Tables,2450.01,3,0.23,157.12
+285,236,2023-05-11,2023-11-29,Standard Class,India,East,Mumbai,Corporate,Office Supplies,Tables,334.79,3,0.14,879.51
+286,345,2023-01-30,2023-10-10,Standard Class,India,North,Bengaluru,Home Office,Technology,Phones,2370.27,8,0.27,442.85
+287,198,2023-05-10,2023-09-29,First Class,India,West,Chennai,Consumer,Office Supplies,Accessories,2601.24,6,0.23,253.4
+288,294,2023-07-16,2023-07-18,Same Day,India,South,Hyderabad,Corporate,Office Supplies,Phones,3561.13,9,0.21,822.39
+289,131,2023-09-15,2023-10-27,Second Class,India,South,Pune,Home Office,Furniture,Binders,1528.02,7,0.29,682.43
+290,202,2023-08-01,2023-09-08,Second Class,India,East,Delhi,Consumer,Furniture,Tables,3835.62,9,0.07,596.88
+291,444,2023-06-18,2023-11-22,Same Day,India,East,Delhi,Corporate,Furniture,Phones,920.48,8,0.18,214.52
+292,412,2023-11-01,2023-11-12,Second Class,India,South,Kolkata,Home Office,Technology,Phones,328.19,3,0.03,986.95
+293,80,2023-05-27,2023-11-02,First Class,India,West,Delhi,Corporate,Technology,Accessories,677.74,3,0.17,418.54
+294,426,2023-11-05,2023-12-08,Second Class,India,North,Delhi,Home Office,Technology,Tables,4551.77,10,0.37,694.44
+295,223,2023-01-22,2023-07-23,Same Day,India,East,Kolkata,Home Office,Technology,Phones,4058.54,6,0.07,309.06
+296,410,2023-02-24,2023-10-27,Second Class,India,South,Bengaluru,Home Office,Office Supplies,Phones,4386.55,7,0.02,781.97
+297,373,2023-12-24,2024-01-09,First Class,India,West,Pune,Corporate,Furniture,Phones,1309.64,10,0.28,178.85
+298,32,2023-11-19,2023-12-06,First Class,India,West,Hyderabad,Corporate,Furniture,Binders,739.26,2,0.01,853.62
+299,495,2023-12-21,2024-01-03,Second Class,India,West,Kolkata,Consumer,Office Supplies,Accessories,4412.85,8,0.06,953.24
+300,465,2023-09-16,2023-11-14,First Class,India,East,Hyderabad,Corporate,Furniture,Tables,3143.89,4,0.31,-40.27
+301,420,2023-03-26,2023-04-06,First Class,India,North,Kolkata,Home Office,Technology,Binders,2592.86,10,0.42,114.08
+302,423,2023-06-02,2023-08-29,Second Class,India,South,Kolkata,Home Office,Office Supplies,Accessories,118.48,1,0.33,699.62
+303,218,2023-11-12,2023-12-09,Same Day,India,North,Kolkata,Home Office,Furniture,Binders,138.8,6,0.17,954.96
+304,430,2023-05-09,2023-10-17,Second Class,India,West,Pune,Home Office,Technology,Chairs,189.25,2,0.06,599.88
+305,6,2023-07-14,2023-12-26,Standard Class,India,North,Hyderabad,Corporate,Office Supplies,Tables,974.33,1,0.43,193.72
+306,379,2023-10-28,2023-11-20,Second Class,India,East,Chennai,Home Office,Technology,Tables,3294.28,7,0.44,633.98
+307,134,2023-11-27,2023-12-07,Standard Class,India,North,Pune,Consumer,Office Supplies,Tables,1440.03,3,0.33,224.03
+308,395,2023-07-18,2023-08-17,Standard Class,India,West,Kolkata,Consumer,Technology,Tables,2465.42,10,0.21,871.99
+309,481,2023-01-31,2023-05-26,Same Day,India,West,Hyderabad,Consumer,Technology,Chairs,413.43,7,0.32,208.29
+310,7,2023-01-26,2023-10-10,First Class,India,West,Bengaluru,Corporate,Office Supplies,Tables,3059.32,4,0.44,940.84
+311,374,2023-03-08,2024-01-03,Standard Class,India,West,Kolkata,Home Office,Office Supplies,Binders,2119.72,8,0.16,-39.92
+312,396,2023-11-02,2023-11-20,Second Class,India,East,Delhi,Corporate,Technology,Tables,1050.57,3,0.0,182.65
+313,421,2023-07-27,2023-10-24,Same Day,India,West,Pune,Corporate,Office Supplies,Binders,4383.49,3,0.1,355.36
+314,363,2023-08-29,2023-09-12,First Class,India,South,Bengaluru,Corporate,Furniture,Tables,4036.99,9,0.43,359.52
+315,189,2023-05-01,2023-10-02,First Class,India,North,Hyderabad,Corporate,Office Supplies,Tables,1836.61,1,0.25,493.2
+316,187,2023-04-17,2023-10-27,Standard Class,India,South,Bengaluru,Home Office,Office Supplies,Phones,4164.1,3,0.47,-83.24
+317,462,2023-03-06,2023-04-07,Standard Class,India,North,Hyderabad,Corporate,Furniture,Phones,4280.79,7,0.21,753.34
+318,85,2023-05-30,2023-06-09,First Class,India,East,Delhi,Home Office,Technology,Tables,4946.18,1,0.35,573.44
+319,255,2023-10-14,2024-01-03,Second Class,India,North,Hyderabad,Consumer,Office Supplies,Tables,1653.21,7,0.16,-1.67
+320,198,2023-03-08,2023-04-07,Second Class,India,West,Hyderabad,Home Office,Office Supplies,Binders,2325.2,3,0.14,318.74
+321,323,2023-01-09,2023-07-09,Standard Class,India,North,Mumbai,Corporate,Furniture,Phones,3193.21,5,0.16,132.3
+322,376,2023-08-21,2023-11-24,Same Day,India,East,Mumbai,Corporate,Furniture,Accessories,2117.08,10,0.07,-0.9
+323,429,2023-04-15,2023-08-28,Standard Class,India,North,Delhi,Consumer,Furniture,Phones,549.49,2,0.1,335.47
+324,360,2023-06-15,2023-12-16,First Class,India,North,Chennai,Corporate,Furniture,Chairs,511.07,8,0.04,629.49
+325,376,2023-02-08,2023-11-21,Standard Class,India,East,Delhi,Corporate,Office Supplies,Accessories,883.39,3,0.49,377.87
+326,346,2023-12-17,2024-01-08,First Class,India,East,Delhi,Corporate,Technology,Chairs,2938.66,8,0.48,359.46
+327,7,2023-10-28,2023-11-12,Second Class,India,East,Bengaluru,Consumer,Furniture,Phones,497.1,4,0.33,325.14
+328,28,2023-06-11,2023-08-19,Standard Class,India,West,Delhi,Consumer,Office Supplies,Accessories,1202.07,2,0.1,246.06
+329,233,2023-04-17,2023-07-19,Same Day,India,North,Chennai,Home Office,Furniture,Accessories,4484.02,7,0.45,-7.45
+330,260,2023-08-25,2023-10-10,Same Day,India,South,Hyderabad,Home Office,Office Supplies,Phones,2784.86,2,0.19,267.0
+331,386,2023-02-04,2023-09-03,Second Class,India,North,Pune,Corporate,Technology,Phones,4841.39,9,0.44,117.99
+332,18,2023-10-24,2023-12-13,Same Day,India,West,Kolkata,Corporate,Office Supplies,Phones,2791.16,10,0.34,530.09
+333,12,2023-10-30,2023-12-01,Second Class,India,West,Pune,Corporate,Technology,Accessories,3428.51,9,0.5,430.07
+334,66,2023-07-27,2023-08-28,Second Class,India,North,Hyderabad,Consumer,Technology,Accessories,3247.56,4,0.46,880.6
+335,53,2023-11-04,2024-01-04,Second Class,India,East,Bengaluru,Home Office,Furniture,Binders,2766.81,2,0.03,-30.3
+336,345,2023-06-15,2023-10-15,Same Day,India,South,Hyderabad,Home Office,Office Supplies,Tables,4108.36,7,0.07,792.18
+337,336,2023-04-18,2023-11-21,Standard Class,India,North,Kolkata,Corporate,Furniture,Chairs,1803.18,1,0.49,-56.1
+338,309,2023-08-22,2023-10-19,Standard Class,India,South,Bengaluru,Home Office,Office Supplies,Phones,4348.94,4,0.07,518.07
+339,142,2023-08-28,2024-01-01,Same Day,India,South,Bengaluru,Corporate,Furniture,Accessories,4570.4,6,0.35,125.85
+340,163,2023-07-26,2023-12-18,Second Class,India,South,Chennai,Consumer,Furniture,Chairs,112.62,8,0.23,871.97
+341,486,2023-02-19,2023-12-25,Standard Class,India,South,Bengaluru,Consumer,Office Supplies,Chairs,3851.56,9,0.25,254.1
+342,345,2023-04-01,2023-12-23,Standard Class,India,West,Bengaluru,Consumer,Furniture,Chairs,1087.53,7,0.37,261.42
+343,77,2023-06-17,2023-07-27,First Class,India,South,Delhi,Consumer,Furniture,Tables,1667.46,9,0.38,172.77
+344,430,2023-04-05,2023-05-16,First Class,India,South,Mumbai,Home Office,Furniture,Accessories,4398.22,6,0.21,697.6
+345,421,2023-05-01,2023-08-18,Second Class,India,South,Bengaluru,Home Office,Office Supplies,Binders,4236.02,1,0.46,452.29
+346,482,2023-10-18,2023-10-30,Standard Class,India,North,Delhi,Home Office,Office Supplies,Accessories,1923.53,3,0.02,430.13
+347,438,2023-03-28,2023-09-17,Same Day,India,South,Hyderabad,Home Office,Technology,Chairs,1881.93,10,0.35,9.99
+348,249,2023-09-13,2023-10-22,Second Class,India,West,Mumbai,Consumer,Furniture,Chairs,4836.85,7,0.15,759.89
+349,144,2023-12-27,2023-12-29,First Class,India,East,Hyderabad,Home Office,Technology,Phones,1910.16,7,0.33,892.09
+350,197,2023-07-07,2023-11-22,Same Day,India,East,Pune,Home Office,Technology,Accessories,1073.69,1,0.14,745.25
+351,181,2023-09-30,2023-10-09,First Class,India,South,Chennai,Consumer,Furniture,Phones,2719.03,4,0.19,-61.49
+352,234,2023-09-01,2023-11-12,Standard Class,India,South,Pune,Consumer,Technology,Phones,243.68,5,0.47,116.71
+353,268,2023-10-02,2023-11-07,Same Day,India,South,Pune,Corporate,Technology,Accessories,3512.83,8,0.32,-7.41
+354,392,2023-05-12,2023-06-26,Second Class,India,East,Mumbai,Home Office,Technology,Tables,790.82,5,0.17,28.68
+355,292,2023-04-26,2023-07-03,First Class,India,East,Chennai,Consumer,Furniture,Accessories,693.33,8,0.43,266.33
+356,450,2023-05-13,2023-12-23,Standard Class,India,West,Mumbai,Consumer,Furniture,Binders,571.11,9,0.3,382.01
+357,392,2023-07-04,2023-12-20,Same Day,India,South,Chennai,Corporate,Technology,Accessories,353.62,10,0.26,0.74
+358,220,2023-09-04,2023-09-16,Same Day,India,West,Pune,Corporate,Technology,Chairs,1101.15,10,0.39,990.69
+359,222,2023-01-07,2023-03-17,First Class,India,North,Kolkata,Consumer,Furniture,Phones,3009.23,5,0.25,20.49
+360,499,2023-07-17,2023-09-26,Second Class,India,South,Mumbai,Consumer,Technology,Tables,1005.4,1,0.48,832.46
+361,104,2023-06-21,2023-10-04,First Class,India,West,Pune,Corporate,Office Supplies,Tables,1887.56,2,0.24,-95.14
+362,199,2023-10-29,2023-11-13,Same Day,India,South,Kolkata,Consumer,Furniture,Accessories,3563.05,9,0.23,995.22
+363,36,2023-11-04,2023-12-23,Same Day,India,South,Chennai,Consumer,Technology,Tables,3650.26,10,0.03,83.15
+364,427,2023-11-04,2023-11-14,Same Day,India,North,Pune,Home Office,Technology,Tables,1705.65,4,0.12,765.05
+365,20,2023-07-13,2023-08-14,Standard Class,India,East,Pune,Home Office,Furniture,Phones,1326.68,3,0.42,146.58
+366,37,2023-08-10,2023-11-26,Standard Class,India,North,Kolkata,Home Office,Furniture,Chairs,1670.29,4,0.23,144.99
+367,399,2023-09-08,2023-10-25,Second Class,India,North,Bengaluru,Corporate,Technology,Tables,1028.51,5,0.24,529.9
+368,226,2023-02-14,2023-03-01,Standard Class,India,North,Kolkata,Home Office,Furniture,Phones,2293.66,2,0.39,713.23
+369,474,2023-12-20,2024-01-08,Same Day,India,North,Chennai,Corporate,Office Supplies,Accessories,4193.25,10,0.3,114.01
+370,330,2023-09-04,2023-12-15,Same Day,India,East,Bengaluru,Consumer,Technology,Accessories,310.53,6,0.28,750.43
+371,161,2023-03-06,2023-05-23,First Class,India,West,Chennai,Consumer,Technology,Accessories,4646.85,10,0.43,965.41
+372,378,2023-05-23,2023-06-03,Same Day,India,East,Kolkata,Corporate,Furniture,Chairs,3177.06,3,0.07,419.27
+373,141,2023-06-28,2023-10-19,Standard Class,India,North,Kolkata,Corporate,Office Supplies,Binders,405.23,4,0.12,700.6
+374,355,2023-09-13,2023-11-16,Second Class,India,West,Bengaluru,Corporate,Furniture,Phones,3319.17,2,0.18,355.34
+375,262,2023-11-19,2023-11-19,Same Day,India,East,Chennai,Corporate,Technology,Accessories,3932.97,6,0.15,166.2
+376,176,2023-11-09,2023-12-07,First Class,India,North,Mumbai,Home Office,Furniture,Tables,3422.04,6,0.12,852.22
+377,208,2023-03-20,2023-10-22,Same Day,India,East,Hyderabad,Consumer,Office Supplies,Binders,4402.31,8,0.45,396.27
+378,32,2023-11-24,2023-12-29,First Class,India,South,Delhi,Consumer,Office Supplies,Accessories,4388.21,8,0.17,525.73
+379,359,2023-12-06,2023-12-19,First Class,India,North,Kolkata,Corporate,Furniture,Accessories,131.12,8,0.48,210.44
+380,213,2023-11-26,2023-12-02,Same Day,India,West,Hyderabad,Home Office,Furniture,Binders,2649.22,7,0.04,770.24
+381,176,2023-08-12,2023-10-19,First Class,India,North,Chennai,Consumer,Technology,Tables,4467.89,2,0.38,172.1
+382,219,2023-03-20,2023-08-21,First Class,India,South,Pune,Corporate,Office Supplies,Accessories,1908.06,10,0.05,122.96
+383,328,2023-07-26,2024-01-04,Standard Class,India,East,Delhi,Consumer,Technology,Chairs,350.25,1,0.08,873.57
+384,308,2023-01-19,2023-05-19,Second Class,India,East,Pune,Home Office,Furniture,Binders,2948.97,7,0.37,371.53
+385,84,2023-07-17,2023-09-03,Second Class,India,South,Bengaluru,Home Office,Technology,Phones,67.35,1,0.13,943.42
+386,91,2023-06-02,2023-08-15,First Class,India,North,Kolkata,Home Office,Office Supplies,Tables,541.31,8,0.02,-56.78
+387,27,2023-04-29,2023-10-31,Same Day,India,North,Hyderabad,Consumer,Office Supplies,Phones,1068.63,9,0.14,702.6
+388,320,2023-08-18,2023-09-24,First Class,India,North,Kolkata,Consumer,Technology,Phones,431.32,7,0.1,136.39
+389,115,2023-02-08,2023-09-30,Same Day,India,East,Delhi,Corporate,Furniture,Chairs,4335.94,5,0.12,-18.2
+390,231,2023-07-09,2023-11-08,First Class,India,North,Chennai,Consumer,Office Supplies,Phones,3463.16,1,0.19,79.53
+391,256,2023-04-23,2023-08-11,Second Class,India,North,Hyderabad,Home Office,Office Supplies,Chairs,3460.94,8,0.27,570.4
+392,86,2023-01-25,2023-06-03,First Class,India,North,Mumbai,Corporate,Technology,Binders,3194.17,9,0.06,31.9
+393,297,2023-10-31,2023-11-21,First Class,India,West,Chennai,Corporate,Technology,Chairs,4737.59,2,0.07,650.24
+394,136,2023-05-12,2023-05-21,First Class,India,East,Bengaluru,Consumer,Furniture,Phones,2878.73,10,0.41,202.6
+395,198,2023-10-13,2023-11-17,First Class,India,East,Pune,Consumer,Furniture,Binders,1748.1,7,0.11,775.7
+396,98,2023-05-26,2023-11-26,Second Class,India,North,Pune,Consumer,Office Supplies,Accessories,4835.39,7,0.2,518.82
+397,235,2023-10-27,2023-12-09,Standard Class,India,North,Kolkata,Consumer,Office Supplies,Tables,1111.46,10,0.21,172.03
+398,5,2023-11-07,2023-12-28,Second Class,India,West,Mumbai,Home Office,Technology,Accessories,2641.6,7,0.18,483.7
+399,194,2023-03-20,2023-10-09,Second Class,India,North,Chennai,Corporate,Technology,Phones,4445.37,1,0.22,989.77
+400,121,2023-08-09,2023-09-01,Standard Class,India,East,Chennai,Consumer,Furniture,Binders,1985.15,2,0.16,546.68
+401,312,2023-03-27,2023-11-16,Standard Class,India,West,Kolkata,Home Office,Technology,Phones,1813.52,5,0.2,205.67
+402,124,2023-06-13,2023-08-02,Second Class,India,North,Kolkata,Consumer,Furniture,Phones,4265.99,8,0.41,501.35
+403,389,2023-08-15,2023-12-29,Standard Class,India,South,Delhi,Corporate,Office Supplies,Chairs,2785.89,7,0.32,93.39
+404,485,2023-09-28,2023-11-16,Second Class,India,East,Bengaluru,Corporate,Technology,Phones,3256.99,4,0.13,493.86
+405,500,2023-04-11,2023-10-24,Second Class,India,East,Chennai,Corporate,Office Supplies,Binders,1003.06,5,0.14,690.35
+406,276,2023-11-23,2024-01-05,Same Day,India,South,Delhi,Corporate,Furniture,Tables,3382.6,3,0.15,581.47
+407,262,2023-02-15,2023-12-20,Standard Class,India,North,Mumbai,Consumer,Office Supplies,Chairs,506.38,5,0.47,326.8
+408,458,2023-07-29,2023-10-20,Same Day,India,East,Delhi,Consumer,Technology,Accessories,102.89,6,0.05,754.49
+409,483,2023-07-11,2023-08-07,Standard Class,India,South,Chennai,Consumer,Furniture,Tables,3480.9,10,0.13,92.19
+410,5,2023-01-01,2023-06-03,Same Day,India,West,Hyderabad,Home Office,Technology,Binders,2993.29,5,0.38,568.3
+411,53,2023-01-19,2023-06-08,First Class,India,East,Mumbai,Corporate,Office Supplies,Accessories,2132.61,6,0.23,557.58
+412,384,2023-01-04,2023-09-28,Standard Class,India,North,Pune,Corporate,Furniture,Phones,4230.46,7,0.36,519.68
+413,18,2023-12-12,2023-12-18,Same Day,India,North,Pune,Home Office,Technology,Binders,4307.98,6,0.45,5.79
+414,461,2023-09-02,2023-11-16,Second Class,India,North,Bengaluru,Consumer,Office Supplies,Phones,4226.22,9,0.38,462.9
+415,23,2023-10-26,2023-12-09,Standard Class,India,North,Pune,Corporate,Furniture,Phones,4319.65,4,0.03,874.34
+416,224,2023-12-30,2024-01-09,Standard Class,India,South,Bengaluru,Home Office,Furniture,Tables,2471.94,3,0.06,688.89
+417,104,2023-10-21,2023-10-31,First Class,India,West,Mumbai,Home Office,Technology,Binders,4068.47,7,0.21,732.95
+418,270,2023-12-18,2024-01-02,Same Day,India,West,Hyderabad,Consumer,Office Supplies,Phones,2410.6,8,0.08,380.25
+419,222,2023-05-24,2023-10-02,Same Day,India,West,Pune,Consumer,Technology,Binders,4109.46,3,0.07,913.09
+420,53,2023-02-20,2023-05-17,First Class,India,West,Chennai,Consumer,Furniture,Accessories,4283.75,4,0.13,536.41
+421,418,2023-03-21,2023-10-16,First Class,India,South,Hyderabad,Corporate,Technology,Tables,2936.09,3,0.29,486.44
+422,363,2023-01-03,2023-12-27,Standard Class,India,West,Pune,Corporate,Furniture,Tables,3752.95,7,0.37,615.11
+423,322,2023-04-14,2023-09-28,Standard Class,India,West,Chennai,Corporate,Furniture,Tables,2405.8,7,0.32,693.01
+424,487,2023-12-15,2023-12-16,Standard Class,India,East,Hyderabad,Corporate,Office Supplies,Accessories,1843.1,6,0.15,150.72
+425,244,2023-12-28,2023-12-30,Standard Class,India,South,Chennai,Home Office,Office Supplies,Accessories,2184.28,3,0.09,-26.04
+426,214,2023-01-20,2023-12-15,First Class,India,North,Hyderabad,Home Office,Technology,Chairs,957.75,9,0.32,129.39
+427,31,2023-03-10,2023-06-27,Standard Class,India,North,Hyderabad,Corporate,Furniture,Tables,699.63,10,0.45,569.25
+428,144,2023-01-07,2023-06-22,Second Class,India,West,Pune,Home Office,Office Supplies,Binders,2346.08,2,0.01,307.59
+429,331,2023-10-22,2023-12-21,First Class,India,South,Mumbai,Home Office,Technology,Tables,3270.96,10,0.09,131.56
+430,138,2023-10-17,2023-10-26,Same Day,India,East,Mumbai,Home Office,Furniture,Phones,3649.82,6,0.36,386.79
+431,413,2023-05-31,2023-09-15,Same Day,India,South,Kolkata,Corporate,Office Supplies,Tables,1396.39,8,0.18,217.12
+432,287,2023-03-09,2023-08-23,Second Class,India,North,Delhi,Consumer,Furniture,Accessories,2337.57,7,0.38,898.39
+433,277,2023-08-07,2023-10-18,Second Class,India,East,Hyderabad,Home Office,Technology,Tables,1708.93,6,0.01,977.93
+434,323,2023-05-15,2023-09-20,First Class,India,West,Delhi,Home Office,Furniture,Accessories,2150.85,2,0.33,869.65
+435,395,2023-12-06,2023-12-20,Second Class,India,North,Chennai,Corporate,Furniture,Binders,4408.44,5,0.08,17.92
+436,436,2023-12-15,2023-12-20,First Class,India,North,Hyderabad,Corporate,Technology,Binders,884.7,7,0.17,460.3
+437,206,2023-08-28,2023-11-29,First Class,India,East,Kolkata,Corporate,Furniture,Chairs,4107.78,7,0.32,736.27
+438,253,2023-12-05,2023-12-31,Same Day,India,East,Pune,Home Office,Furniture,Accessories,1502.24,8,0.18,-91.27
+439,164,2023-09-05,2023-12-30,First Class,India,West,Delhi,Consumer,Office Supplies,Tables,1378.91,5,0.35,610.27
+440,351,2023-01-31,2023-09-26,First Class,India,East,Bengaluru,Home Office,Office Supplies,Accessories,1362.24,8,0.16,199.81
+441,107,2023-06-16,2023-07-02,Second Class,India,South,Hyderabad,Corporate,Technology,Chairs,4594.42,2,0.29,799.07
+442,107,2023-02-02,2023-06-29,Same Day,India,West,Chennai,Corporate,Office Supplies,Phones,82.23,6,0.46,576.15
+443,67,2023-09-19,2023-12-08,Second Class,India,North,Mumbai,Corporate,Furniture,Chairs,1834.62,3,0.33,693.56
+444,152,2023-10-30,2023-11-19,Second Class,India,North,Hyderabad,Consumer,Office Supplies,Tables,793.85,6,0.22,175.23
+445,412,2023-10-26,2023-11-15,Standard Class,India,East,Kolkata,Consumer,Technology,Phones,585.65,10,0.36,938.56
+446,87,2023-05-04,2023-10-02,Second Class,India,North,Hyderabad,Corporate,Technology,Accessories,1680.9,8,0.42,976.94
+447,270,2023-02-18,2023-05-14,Same Day,India,North,Bengaluru,Corporate,Furniture,Tables,3549.89,2,0.22,133.55
+448,36,2023-05-23,2023-08-01,First Class,India,East,Hyderabad,Consumer,Office Supplies,Tables,3992.91,1,0.25,716.45
+449,47,2023-07-16,2023-08-14,Second Class,India,East,Bengaluru,Consumer,Technology,Chairs,541.23,6,0.11,-92.32
+450,39,2023-06-07,2023-06-27,Same Day,India,South,Bengaluru,Corporate,Office Supplies,Tables,1741.69,3,0.38,590.09
+451,383,2023-06-11,2023-08-12,Same Day,India,North,Hyderabad,Consumer,Technology,Tables,2403.59,6,0.22,143.79
+452,499,2023-12-06,2023-12-09,Same Day,India,South,Chennai,Home Office,Technology,Tables,2999.41,6,0.14,712.1
+453,62,2023-06-04,2023-11-18,Same Day,India,East,Delhi,Corporate,Technology,Binders,2698.22,10,0.1,626.51
+454,331,2023-09-10,2023-09-29,Second Class,India,South,Mumbai,Consumer,Furniture,Chairs,2443.98,8,0.34,638.65
+455,96,2023-01-23,2023-04-16,Same Day,India,North,Bengaluru,Home Office,Technology,Accessories,4444.93,6,0.04,-87.54
+456,237,2023-05-05,2023-12-27,Standard Class,India,North,Pune,Home Office,Furniture,Accessories,3272.56,9,0.34,911.74
+457,150,2023-02-02,2023-08-28,Same Day,India,West,Kolkata,Consumer,Technology,Chairs,1311.41,6,0.08,-17.94
+458,100,2023-02-18,2023-07-03,Standard Class,India,South,Kolkata,Consumer,Technology,Phones,2818.99,6,0.1,475.72
+459,447,2023-12-12,2023-12-30,Same Day,India,West,Pune,Home Office,Office Supplies,Phones,794.19,10,0.28,521.64
+460,400,2023-06-09,2023-11-12,First Class,India,West,Hyderabad,Home Office,Office Supplies,Tables,442.28,2,0.08,100.62
+461,343,2023-09-13,2023-12-21,Same Day,India,South,Mumbai,Corporate,Office Supplies,Binders,3220.68,8,0.08,784.11
+462,231,2023-02-07,2023-02-18,First Class,India,South,Delhi,Consumer,Technology,Phones,214.52,4,0.36,274.25
+463,280,2023-12-28,2023-12-30,First Class,India,South,Hyderabad,Consumer,Furniture,Chairs,1559.87,3,0.29,588.18
+464,24,2023-09-18,2023-12-01,Same Day,India,South,Pune,Home Office,Technology,Tables,3501.35,5,0.15,850.48
+465,31,2023-06-25,2024-01-08,Second Class,India,North,Kolkata,Corporate,Office Supplies,Binders,2742.86,4,0.36,794.84
+466,28,2023-11-28,2023-12-16,Same Day,India,West,Mumbai,Consumer,Technology,Phones,918.61,2,0.4,353.64
+467,364,2023-06-25,2023-11-17,Standard Class,India,South,Bengaluru,Corporate,Furniture,Chairs,4494.43,6,0.47,816.49
+468,312,2023-06-09,2023-09-22,Second Class,India,North,Chennai,Consumer,Office Supplies,Accessories,3277.23,5,0.46,854.55
+469,415,2023-12-11,2023-12-16,Same Day,India,East,Bengaluru,Home Office,Furniture,Binders,497.91,4,0.41,635.49
+470,206,2023-01-16,2023-07-16,First Class,India,South,Bengaluru,Consumer,Technology,Tables,422.8,5,0.24,882.85
+471,469,2023-05-02,2023-09-30,First Class,India,West,Delhi,Consumer,Technology,Binders,206.22,3,0.19,484.88
+472,276,2023-04-10,2023-08-20,Same Day,India,North,Delhi,Corporate,Technology,Tables,4949.8,4,0.16,10.52
+473,185,2023-05-11,2023-12-19,Standard Class,India,East,Chennai,Home Office,Furniture,Chairs,1481.88,6,0.19,447.93
+474,163,2023-12-19,2023-12-20,Same Day,India,South,Bengaluru,Consumer,Technology,Chairs,2844.68,3,0.3,485.91
+475,312,2023-09-22,2023-11-25,Same Day,India,South,Chennai,Consumer,Furniture,Chairs,1117.32,7,0.24,300.32
+476,55,2023-01-18,2023-10-01,Second Class,India,East,Bengaluru,Home Office,Furniture,Phones,1461.98,10,0.23,395.69
+477,31,2023-06-15,2023-07-19,Same Day,India,North,Pune,Consumer,Office Supplies,Accessories,4728.26,4,0.24,359.17
+478,166,2023-01-02,2023-07-13,Same Day,India,South,Chennai,Home Office,Technology,Tables,269.15,6,0.13,818.33
+479,129,2023-02-19,2023-04-22,Standard Class,India,West,Kolkata,Home Office,Office Supplies,Chairs,3574.25,8,0.05,571.76
+480,313,2023-09-30,2023-10-16,First Class,India,East,Hyderabad,Consumer,Office Supplies,Tables,4834.37,9,0.17,582.3
+481,271,2023-09-06,2023-12-13,Second Class,India,West,Delhi,Corporate,Office Supplies,Phones,543.76,6,0.12,188.89
+482,241,2023-01-27,2023-04-01,First Class,India,South,Bengaluru,Home Office,Technology,Binders,3189.62,6,0.18,433.66
+483,168,2023-12-11,2023-12-21,Second Class,India,East,Delhi,Home Office,Office Supplies,Chairs,4757.21,1,0.42,645.48
+484,293,2023-05-16,2023-07-21,First Class,India,South,Chennai,Corporate,Furniture,Phones,4133.74,3,0.23,851.11
+485,464,2023-05-01,2023-05-24,Standard Class,India,East,Mumbai,Corporate,Technology,Tables,1923.21,8,0.03,222.07
+486,130,2023-10-31,2023-12-05,Standard Class,India,South,Kolkata,Consumer,Office Supplies,Binders,523.09,5,0.29,56.11
+487,420,2023-12-28,2024-01-06,First Class,India,South,Delhi,Corporate,Technology,Chairs,3770.68,6,0.06,-68.88
+488,350,2023-09-05,2023-11-21,Standard Class,India,North,Hyderabad,Home Office,Furniture,Phones,1470.15,7,0.04,79.26
+489,70,2023-10-30,2023-11-22,Same Day,India,East,Delhi,Home Office,Technology,Tables,4258.59,9,0.34,24.05
+490,432,2023-05-21,2023-07-12,Same Day,India,West,Pune,Home Office,Technology,Phones,4016.58,8,0.06,9.45
+491,416,2023-02-10,2023-05-11,Standard Class,India,West,Bengaluru,Consumer,Office Supplies,Tables,585.34,10,0.35,802.02
+492,368,2023-04-26,2023-11-12,First Class,India,West,Chennai,Consumer,Furniture,Chairs,2812.56,2,0.46,162.05
+493,15,2023-11-28,2023-12-25,Second Class,India,East,Kolkata,Home Office,Furniture,Chairs,541.59,9,0.02,-70.68
+494,288,2023-02-17,2023-12-22,Second Class,India,North,Hyderabad,Corporate,Furniture,Accessories,4265.03,10,0.31,809.12
+495,262,2023-08-28,2023-10-25,First Class,India,East,Hyderabad,Consumer,Furniture,Phones,3552.24,8,0.32,335.06
+496,197,2023-07-25,2023-09-09,Same Day,India,West,Kolkata,Home Office,Technology,Binders,3121.79,6,0.19,91.69
+497,211,2023-12-30,2024-01-03,Same Day,India,North,Chennai,Corporate,Office Supplies,Phones,1099.76,8,0.01,283.24
+498,45,2023-01-10,2023-11-12,Second Class,India,North,Pune,Home Office,Technology,Tables,4114.33,10,0.09,-35.43
+499,317,2023-11-10,2023-11-29,Same Day,India,West,Delhi,Consumer,Technology,Tables,87.02,5,0.33,-45.67
+500,444,2023-06-08,2023-10-10,Standard Class,India,East,Delhi,Home Office,Furniture,Phones,2208.05,10,0.22,64.03
+501,469,2023-10-26,2023-11-16,Standard Class,India,South,Pune,Home Office,Technology,Phones,2187.12,1,0.07,450.84
+502,162,2023-05-21,2024-01-09,Standard Class,India,South,Pune,Corporate,Technology,Tables,3402.24,9,0.36,567.78
+503,335,2023-06-13,2023-10-09,Standard Class,India,East,Mumbai,Home Office,Office Supplies,Chairs,4705.29,7,0.38,781.15
+504,95,2023-02-27,2023-09-06,Standard Class,India,East,Hyderabad,Consumer,Office Supplies,Tables,4619.0,9,0.37,758.45
+505,50,2023-10-09,2023-12-01,Second Class,India,North,Hyderabad,Consumer,Furniture,Chairs,1684.05,10,0.06,936.99
+506,261,2023-05-07,2023-10-30,Same Day,India,West,Delhi,Corporate,Office Supplies,Accessories,443.34,9,0.19,108.31
+507,313,2023-02-10,2023-05-12,Standard Class,India,West,Pune,Consumer,Furniture,Phones,3360.24,7,0.27,803.7
+508,376,2023-06-06,2023-08-06,First Class,India,North,Chennai,Consumer,Furniture,Chairs,1320.69,6,0.21,452.06
+509,122,2023-11-02,2023-11-18,Second Class,India,South,Bengaluru,Corporate,Technology,Tables,3626.07,9,0.09,-20.52
+510,446,2023-08-07,2023-09-23,First Class,India,South,Kolkata,Home Office,Technology,Tables,3660.01,3,0.28,86.24
+511,301,2023-07-22,2023-11-19,Second Class,India,North,Mumbai,Home Office,Technology,Accessories,2446.1,4,0.16,863.5
+512,171,2023-07-15,2024-01-06,Standard Class,India,North,Chennai,Home Office,Office Supplies,Chairs,447.3,10,0.35,210.24
+513,272,2023-02-26,2023-06-15,Standard Class,India,East,Mumbai,Home Office,Furniture,Binders,728.68,6,0.11,786.83
+514,158,2023-10-11,2023-10-20,Standard Class,India,North,Bengaluru,Home Office,Office Supplies,Binders,3500.43,6,0.47,325.17
+515,428,2023-12-15,2023-12-29,Standard Class,India,South,Hyderabad,Home Office,Office Supplies,Phones,1389.02,7,0.07,-29.5
+516,484,2023-07-21,2023-09-15,Standard Class,India,South,Bengaluru,Home Office,Technology,Chairs,4010.32,6,0.18,47.89
+517,331,2023-04-09,2023-09-23,First Class,India,East,Chennai,Corporate,Office Supplies,Tables,3939.3,8,0.49,285.87
+518,176,2023-08-18,2023-09-04,Same Day,India,North,Bengaluru,Home Office,Furniture,Phones,3579.48,7,0.0,328.53
+519,7,2023-04-22,2023-11-03,Standard Class,India,West,Mumbai,Home Office,Technology,Tables,3148.31,10,0.4,192.32
+520,371,2023-11-22,2024-01-05,Same Day,India,East,Kolkata,Home Office,Office Supplies,Accessories,4625.97,3,0.23,450.82
+521,394,2023-03-05,2023-03-17,Same Day,India,West,Mumbai,Home Office,Technology,Phones,887.29,9,0.1,789.0
+522,389,2023-08-10,2023-12-25,First Class,India,South,Kolkata,Consumer,Technology,Accessories,2184.34,7,0.49,449.49
+523,311,2023-07-22,2023-10-12,Standard Class,India,North,Hyderabad,Home Office,Office Supplies,Binders,3357.73,9,0.48,-50.36
+524,34,2023-03-12,2023-08-08,Second Class,India,South,Bengaluru,Home Office,Office Supplies,Binders,4695.93,5,0.38,289.36
+525,145,2023-12-15,2024-01-04,First Class,India,North,Delhi,Home Office,Office Supplies,Phones,643.02,6,0.34,745.52
+526,494,2023-03-28,2023-11-16,Second Class,India,East,Hyderabad,Home Office,Furniture,Chairs,2833.77,7,0.33,738.4
+527,57,2023-03-04,2023-05-19,Standard Class,India,North,Delhi,Corporate,Furniture,Accessories,942.61,4,0.02,-31.84
+528,393,2023-08-03,2023-08-15,Same Day,India,South,Hyderabad,Consumer,Office Supplies,Phones,3285.54,5,0.27,439.54
+529,382,2023-11-09,2023-12-09,First Class,India,East,Pune,Corporate,Technology,Accessories,3483.35,1,0.02,-62.45
+530,307,2023-06-18,2023-07-23,Same Day,India,South,Mumbai,Home Office,Technology,Accessories,2705.16,4,0.08,902.2
+531,55,2023-09-06,2023-12-21,Second Class,India,East,Kolkata,Corporate,Office Supplies,Accessories,3019.22,9,0.36,570.74
+532,189,2023-05-06,2023-09-11,Same Day,India,West,Hyderabad,Corporate,Office Supplies,Accessories,2512.67,7,0.5,710.57
+533,492,2023-12-14,2023-12-23,Same Day,India,West,Mumbai,Corporate,Furniture,Phones,4687.55,9,0.24,597.21
+534,133,2023-07-02,2023-08-15,Standard Class,India,North,Delhi,Home Office,Office Supplies,Tables,4043.54,5,0.1,602.71
+535,237,2023-12-25,2023-12-26,Second Class,India,North,Bengaluru,Home Office,Technology,Phones,749.82,3,0.4,221.85
+536,125,2023-10-15,2023-11-17,Standard Class,India,North,Pune,Consumer,Technology,Chairs,205.21,8,0.35,537.78
+537,70,2023-05-23,2023-07-28,Second Class,India,South,Delhi,Home Office,Furniture,Phones,3399.83,1,0.01,-99.19
+538,58,2023-11-17,2023-12-17,First Class,India,East,Kolkata,Home Office,Office Supplies,Accessories,925.76,10,0.13,973.13
+539,10,2023-09-15,2023-10-12,Same Day,India,East,Chennai,Home Office,Office Supplies,Tables,1543.77,3,0.18,763.63
+540,277,2023-02-04,2023-11-06,Second Class,India,North,Chennai,Home Office,Technology,Phones,657.06,9,0.27,710.92
+541,86,2023-03-18,2023-12-31,Same Day,India,South,Bengaluru,Consumer,Technology,Accessories,4083.56,1,0.2,361.68
+542,119,2023-05-03,2023-05-19,Standard Class,India,North,Pune,Home Office,Furniture,Binders,1771.01,9,0.47,510.34
+543,266,2023-12-06,2023-12-24,Second Class,India,East,Bengaluru,Corporate,Office Supplies,Phones,1211.11,3,0.39,932.66
+544,332,2023-07-30,2023-12-18,Second Class,India,South,Kolkata,Home Office,Technology,Tables,407.08,1,0.34,414.04
+545,57,2023-12-31,2024-01-08,First Class,India,East,Chennai,Corporate,Technology,Phones,418.89,6,0.34,496.57
+546,335,2023-11-04,2023-12-16,Standard Class,India,North,Chennai,Home Office,Technology,Phones,4947.99,3,0.2,868.71
+547,406,2023-06-09,2023-07-12,Standard Class,India,East,Pune,Consumer,Technology,Chairs,1182.43,1,0.02,934.23
+548,87,2023-11-14,2023-12-29,Standard Class,India,East,Chennai,Consumer,Office Supplies,Chairs,3038.58,4,0.35,540.3
+549,386,2023-10-16,2024-01-02,Standard Class,India,South,Bengaluru,Home Office,Office Supplies,Binders,1337.45,10,0.41,905.16
+550,148,2023-12-18,2024-01-08,Second Class,India,East,Mumbai,Consumer,Office Supplies,Chairs,1195.51,10,0.48,604.94
+551,124,2023-03-19,2023-09-17,First Class,India,West,Hyderabad,Corporate,Office Supplies,Accessories,3249.39,8,0.13,-36.02
+552,16,2023-09-01,2023-11-28,Same Day,India,East,Delhi,Corporate,Technology,Binders,2471.31,10,0.24,792.15
+553,390,2023-03-20,2023-11-02,Second Class,India,East,Bengaluru,Corporate,Office Supplies,Tables,4055.33,1,0.09,574.81
+554,127,2023-08-13,2023-09-07,Standard Class,India,North,Pune,Corporate,Technology,Tables,4968.84,1,0.07,316.94
+555,305,2023-11-04,2023-11-11,Second Class,India,West,Bengaluru,Corporate,Technology,Binders,3320.36,4,0.01,770.92
+556,79,2023-06-13,2023-06-24,Same Day,India,East,Bengaluru,Home Office,Office Supplies,Accessories,157.08,2,0.04,-74.21
+557,250,2023-08-30,2023-09-19,Standard Class,India,West,Delhi,Corporate,Furniture,Tables,3401.29,7,0.31,741.08
+558,158,2023-03-14,2023-06-26,Same Day,India,West,Chennai,Consumer,Furniture,Chairs,320.31,5,0.26,341.67
+559,144,2023-04-08,2023-08-28,Same Day,India,South,Bengaluru,Home Office,Furniture,Phones,1343.59,3,0.04,782.14
+560,345,2023-02-28,2023-03-31,Same Day,India,East,Pune,Corporate,Furniture,Binders,4114.76,7,0.45,925.97
+561,18,2023-11-07,2023-11-11,Standard Class,India,East,Pune,Home Office,Furniture,Chairs,1366.67,6,0.36,963.57
+562,246,2023-10-26,2023-12-04,Standard Class,India,South,Bengaluru,Corporate,Furniture,Tables,1007.15,2,0.04,-94.87
+563,196,2023-01-20,2023-06-10,First Class,India,East,Chennai,Home Office,Furniture,Tables,3724.39,5,0.02,455.85
+564,83,2023-07-26,2023-09-04,Standard Class,India,West,Chennai,Consumer,Office Supplies,Tables,640.61,9,0.1,585.46
+565,452,2023-02-08,2023-07-10,Standard Class,India,West,Delhi,Corporate,Office Supplies,Chairs,2317.87,2,0.11,553.62
+566,200,2023-07-11,2023-09-18,Second Class,India,South,Delhi,Home Office,Furniture,Phones,4741.44,8,0.22,7.51
+567,332,2023-12-08,2024-01-01,First Class,India,South,Delhi,Home Office,Office Supplies,Accessories,1417.86,9,0.47,167.46
+568,334,2023-10-21,2023-12-13,First Class,India,East,Kolkata,Home Office,Furniture,Tables,1364.81,6,0.16,930.61
+569,258,2023-04-19,2023-06-20,Same Day,India,South,Hyderabad,Consumer,Furniture,Phones,2513.86,4,0.19,568.49
+570,449,2023-03-25,2023-06-13,Standard Class,India,East,Kolkata,Corporate,Technology,Accessories,772.11,6,0.41,943.68
+571,7,2023-03-27,2023-05-10,First Class,India,West,Bengaluru,Home Office,Technology,Tables,203.14,6,0.24,100.53
+572,496,2023-02-17,2023-06-13,Standard Class,India,North,Delhi,Home Office,Office Supplies,Binders,2591.49,10,0.17,898.31
+573,168,2023-12-24,2023-12-31,First Class,India,South,Delhi,Consumer,Furniture,Binders,910.56,1,0.13,906.02
+574,175,2023-03-11,2023-12-02,Same Day,India,South,Pune,Corporate,Furniture,Tables,2706.99,10,0.32,540.31
+575,4,2023-03-18,2023-10-29,Standard Class,India,South,Mumbai,Home Office,Technology,Tables,552.39,3,0.42,21.02
+576,421,2023-09-06,2023-11-27,Standard Class,India,West,Hyderabad,Consumer,Office Supplies,Tables,2748.06,2,0.06,626.1
+577,265,2023-03-08,2023-05-14,Second Class,India,West,Hyderabad,Home Office,Furniture,Binders,729.04,5,0.06,-17.48
+578,60,2023-07-04,2023-09-29,First Class,India,South,Kolkata,Corporate,Furniture,Binders,3355.43,2,0.28,59.42
+579,425,2023-09-16,2023-10-30,Same Day,India,North,Delhi,Consumer,Furniture,Accessories,3253.09,1,0.15,728.82
+580,145,2023-06-25,2023-10-06,Same Day,India,West,Bengaluru,Corporate,Furniture,Binders,1628.54,8,0.07,814.76
+581,121,2023-08-26,2023-12-01,Second Class,India,North,Delhi,Home Office,Office Supplies,Phones,4163.02,9,0.32,369.14
+582,389,2023-07-29,2023-12-24,Same Day,India,West,Pune,Consumer,Technology,Chairs,4092.39,9,0.11,495.84
+583,411,2023-07-07,2023-10-25,Standard Class,India,North,Chennai,Corporate,Furniture,Chairs,852.17,5,0.06,83.68
+584,171,2023-06-29,2023-08-17,Second Class,India,North,Hyderabad,Consumer,Furniture,Binders,1448.04,2,0.32,659.3
+585,122,2023-10-03,2023-11-08,First Class,India,South,Chennai,Corporate,Furniture,Phones,4719.27,7,0.15,-8.88
+586,480,2023-10-05,2023-10-26,Second Class,India,West,Delhi,Consumer,Furniture,Binders,4951.84,2,0.48,881.29
+587,323,2023-06-17,2023-07-02,Second Class,India,South,Hyderabad,Corporate,Furniture,Tables,1093.14,9,0.34,569.64
+588,252,2023-07-31,2023-11-16,Second Class,India,West,Hyderabad,Home Office,Furniture,Chairs,2520.94,6,0.45,214.25
+589,414,2023-09-24,2023-11-29,Same Day,India,North,Kolkata,Home Office,Technology,Tables,2205.99,1,0.02,127.67
+590,308,2023-05-05,2023-05-24,First Class,India,East,Pune,Consumer,Office Supplies,Tables,3182.75,1,0.06,76.7
+591,206,2023-10-16,2023-12-11,Second Class,India,North,Hyderabad,Consumer,Technology,Chairs,3622.32,5,0.09,100.78
+592,107,2023-08-27,2023-10-15,Second Class,India,West,Hyderabad,Corporate,Technology,Tables,1297.89,6,0.33,622.32
+593,254,2023-03-19,2023-11-06,Same Day,India,North,Kolkata,Consumer,Office Supplies,Binders,3772.57,1,0.25,88.96
+594,215,2023-10-25,2023-12-03,Second Class,India,West,Hyderabad,Consumer,Technology,Binders,4575.15,3,0.15,378.59
+595,293,2023-12-24,2024-01-06,First Class,India,West,Hyderabad,Consumer,Office Supplies,Chairs,1731.07,7,0.09,459.44
+596,194,2023-02-22,2023-10-22,Same Day,India,North,Chennai,Consumer,Furniture,Binders,1219.28,7,0.44,716.14
+597,443,2023-01-12,2023-05-11,Second Class,India,West,Hyderabad,Home Office,Technology,Binders,2670.76,9,0.23,909.41
+598,222,2023-12-04,2023-12-06,Second Class,India,West,Delhi,Home Office,Furniture,Binders,2519.1,8,0.21,532.19
+599,348,2023-06-24,2023-07-04,Standard Class,India,East,Bengaluru,Corporate,Office Supplies,Chairs,3032.94,4,0.3,-61.71
+600,147,2023-01-27,2023-10-29,Second Class,India,West,Hyderabad,Consumer,Technology,Tables,1562.59,2,0.39,459.34
+601,39,2023-05-25,2023-07-16,Second Class,India,North,Pune,Corporate,Technology,Binders,529.9,7,0.3,951.11
+602,235,2023-05-30,2023-10-14,Same Day,India,West,Hyderabad,Corporate,Technology,Phones,731.43,3,0.46,753.26
+603,488,2023-05-28,2023-07-09,Standard Class,India,South,Bengaluru,Home Office,Technology,Accessories,3880.4,8,0.17,123.98
+604,95,2023-12-31,2024-01-09,Same Day,India,East,Pune,Home Office,Technology,Phones,3160.95,3,0.46,327.0
+605,468,2023-04-28,2023-12-09,Same Day,India,East,Mumbai,Consumer,Technology,Chairs,4883.69,1,0.44,11.29
+606,286,2023-01-31,2023-06-07,Same Day,India,East,Hyderabad,Corporate,Furniture,Binders,3316.38,8,0.11,411.25
+607,401,2023-07-28,2023-10-29,Standard Class,India,South,Bengaluru,Home Office,Furniture,Chairs,3914.49,6,0.13,348.73
+608,348,2023-02-28,2023-04-16,Second Class,India,South,Bengaluru,Consumer,Furniture,Tables,808.97,7,0.46,900.7
+609,345,2023-05-15,2023-09-07,Standard Class,India,North,Pune,Home Office,Technology,Chairs,1041.4,5,0.27,964.14
+610,497,2023-09-03,2023-12-15,Same Day,India,North,Delhi,Consumer,Office Supplies,Chairs,3482.66,6,0.39,475.57
+611,227,2023-12-02,2023-12-30,First Class,India,South,Chennai,Consumer,Office Supplies,Accessories,326.76,4,0.49,-5.9
+612,64,2023-09-19,2023-10-08,First Class,India,East,Mumbai,Consumer,Technology,Binders,3545.21,9,0.4,297.31
+613,499,2023-03-27,2023-07-11,Second Class,India,South,Kolkata,Corporate,Technology,Accessories,945.63,1,0.45,757.16
+614,122,2023-05-11,2023-08-27,Second Class,India,East,Kolkata,Corporate,Furniture,Accessories,1445.52,8,0.26,131.53
+615,315,2023-11-05,2023-11-24,First Class,India,North,Bengaluru,Consumer,Technology,Accessories,3862.34,9,0.27,991.25
+616,172,2023-05-17,2023-05-25,Standard Class,India,North,Mumbai,Consumer,Office Supplies,Tables,4255.9,8,0.31,-43.47
+617,269,2023-06-11,2023-07-14,Same Day,India,East,Kolkata,Consumer,Technology,Binders,412.16,8,0.06,-82.28
+618,151,2023-06-06,2023-10-26,First Class,India,South,Delhi,Corporate,Office Supplies,Accessories,1656.42,3,0.13,854.8
+619,5,2023-04-04,2023-12-15,Standard Class,India,East,Mumbai,Consumer,Office Supplies,Tables,289.72,7,0.15,83.21
+620,332,2023-01-18,2023-04-04,Same Day,India,East,Mumbai,Home Office,Technology,Accessories,1633.75,9,0.18,447.17
+621,500,2023-08-12,2023-09-13,First Class,India,South,Pune,Home Office,Technology,Phones,2018.04,9,0.16,461.3
+622,36,2023-05-30,2023-11-21,Same Day,India,East,Delhi,Corporate,Technology,Tables,664.07,8,0.11,861.92
+623,258,2023-07-19,2023-08-31,First Class,India,East,Bengaluru,Home Office,Technology,Binders,4630.87,9,0.17,810.95
+624,403,2023-12-04,2023-12-11,Standard Class,India,South,Kolkata,Corporate,Technology,Accessories,1681.18,2,0.48,166.96
+625,30,2023-01-03,2023-01-12,Second Class,India,West,Hyderabad,Corporate,Technology,Tables,3826.22,1,0.35,685.14
+626,115,2023-08-25,2023-09-28,Second Class,India,East,Bengaluru,Consumer,Technology,Binders,3584.96,5,0.46,375.52
+627,58,2023-04-11,2023-12-19,Second Class,India,North,Bengaluru,Consumer,Furniture,Phones,4243.59,1,0.41,521.57
+628,71,2023-05-28,2023-12-11,Second Class,India,South,Hyderabad,Corporate,Technology,Phones,3717.02,10,0.24,-43.62
+629,32,2023-09-13,2023-12-01,First Class,India,North,Chennai,Corporate,Office Supplies,Binders,3041.7,4,0.39,958.17
+630,443,2023-03-17,2023-10-26,Standard Class,India,North,Bengaluru,Home Office,Furniture,Accessories,2383.01,4,0.28,532.7
+631,148,2023-11-04,2023-12-16,Same Day,India,East,Pune,Consumer,Office Supplies,Binders,3745.78,3,0.4,977.44
+632,474,2023-06-21,2023-09-26,First Class,India,South,Hyderabad,Home Office,Technology,Accessories,4031.09,9,0.42,498.79
+633,146,2023-10-09,2024-01-09,Second Class,India,North,Pune,Home Office,Furniture,Chairs,4132.61,7,0.35,728.48
+634,126,2023-08-24,2023-09-20,Second Class,India,South,Pune,Home Office,Office Supplies,Phones,289.19,4,0.23,614.75
+635,343,2023-04-30,2023-12-28,First Class,India,North,Pune,Home Office,Technology,Phones,456.56,2,0.13,-98.28
+636,353,2023-11-26,2023-12-19,Same Day,India,East,Bengaluru,Home Office,Office Supplies,Accessories,1064.45,1,0.03,12.44
+637,412,2023-03-10,2023-05-31,Same Day,India,East,Mumbai,Home Office,Office Supplies,Accessories,4654.67,6,0.12,64.88
+638,220,2023-09-15,2023-12-16,Same Day,India,East,Kolkata,Corporate,Technology,Tables,4979.17,4,0.46,148.12
+639,249,2023-12-16,2024-01-07,Same Day,India,West,Bengaluru,Home Office,Technology,Phones,3328.44,8,0.41,63.56
+640,45,2023-02-15,2023-11-18,First Class,India,West,Hyderabad,Corporate,Technology,Accessories,4855.56,2,0.42,259.6
+641,476,2023-12-27,2024-01-05,First Class,India,West,Pune,Home Office,Furniture,Accessories,308.32,2,0.38,19.43
+642,487,2023-09-07,2023-12-29,Same Day,India,South,Bengaluru,Consumer,Furniture,Phones,4486.87,1,0.18,464.55
+643,473,2023-11-15,2023-12-17,Same Day,India,North,Chennai,Home Office,Technology,Tables,4524.07,5,0.1,153.75
+644,389,2023-01-17,2023-01-17,First Class,India,East,Hyderabad,Corporate,Technology,Phones,2239.68,7,0.18,-48.33
+645,444,2023-09-15,2023-10-26,First Class,India,East,Kolkata,Consumer,Office Supplies,Chairs,527.13,1,0.46,612.66
+646,30,2023-01-31,2023-12-25,Second Class,India,North,Chennai,Consumer,Technology,Accessories,3368.43,5,0.31,812.18
+647,497,2023-09-24,2024-01-06,Same Day,India,West,Bengaluru,Home Office,Technology,Phones,1867.14,5,0.23,698.36
+648,310,2023-10-16,2023-11-16,Same Day,India,North,Delhi,Corporate,Furniture,Tables,4262.47,6,0.12,691.75
+649,145,2023-05-24,2023-09-10,Standard Class,India,West,Pune,Consumer,Technology,Binders,4038.24,2,0.12,85.98
+650,93,2023-01-21,2023-12-05,Second Class,India,North,Mumbai,Corporate,Office Supplies,Chairs,2901.11,8,0.27,329.4
+651,109,2023-06-21,2023-08-03,Second Class,India,East,Pune,Home Office,Technology,Phones,1208.48,8,0.03,997.52
+652,400,2023-09-19,2023-12-27,Standard Class,India,West,Chennai,Consumer,Technology,Tables,133.72,4,0.08,181.63
+653,99,2023-05-16,2023-07-24,Second Class,India,North,Pune,Home Office,Office Supplies,Binders,813.47,9,0.19,71.48
+654,49,2023-11-26,2023-12-07,Second Class,India,West,Bengaluru,Home Office,Technology,Phones,340.52,8,0.23,182.97
+655,416,2023-04-17,2023-11-17,Second Class,India,South,Mumbai,Consumer,Furniture,Binders,538.3,3,0.29,741.55
+656,443,2023-10-11,2023-10-15,Second Class,India,North,Mumbai,Corporate,Furniture,Chairs,4325.66,1,0.04,79.35
+657,382,2023-06-01,2023-12-22,First Class,India,North,Hyderabad,Home Office,Furniture,Phones,1624.04,5,0.02,2.98
+658,473,2023-05-08,2023-08-11,Same Day,India,South,Chennai,Corporate,Office Supplies,Binders,2625.42,2,0.44,573.17
+659,460,2023-05-15,2023-07-17,Standard Class,India,South,Bengaluru,Corporate,Furniture,Tables,3869.45,10,0.29,541.57
+660,102,2023-07-09,2024-01-02,Second Class,India,East,Chennai,Home Office,Office Supplies,Binders,768.4,3,0.39,641.53
+661,475,2023-02-18,2023-06-25,First Class,India,South,Bengaluru,Consumer,Furniture,Binders,691.61,3,0.35,497.28
+662,251,2023-02-21,2023-06-16,Second Class,India,West,Kolkata,Consumer,Office Supplies,Tables,3865.88,10,0.42,548.1
+663,278,2023-01-31,2023-04-23,Standard Class,India,South,Chennai,Home Office,Furniture,Tables,4229.27,9,0.25,570.09
+664,338,2023-11-23,2023-12-23,Same Day,India,West,Delhi,Consumer,Technology,Binders,1834.16,4,0.49,682.0
+665,224,2023-07-22,2023-10-30,Second Class,India,West,Chennai,Home Office,Office Supplies,Tables,2395.14,8,0.43,262.6
+666,461,2023-09-14,2024-01-03,Same Day,India,East,Hyderabad,Home Office,Office Supplies,Accessories,1600.34,1,0.36,483.03
+667,81,2023-06-05,2023-12-02,Same Day,India,East,Hyderabad,Home Office,Office Supplies,Phones,479.04,6,0.16,419.56
+668,199,2023-05-11,2023-07-16,Same Day,India,East,Pune,Corporate,Furniture,Accessories,401.73,9,0.03,468.03
+669,62,2023-11-02,2023-11-30,Second Class,India,South,Bengaluru,Consumer,Technology,Accessories,1374.33,4,0.3,931.31
+670,447,2023-05-28,2023-08-14,Standard Class,India,South,Chennai,Home Office,Furniture,Binders,4191.28,9,0.41,253.69
+671,49,2023-10-17,2023-10-29,Second Class,India,East,Chennai,Corporate,Office Supplies,Binders,866.0,7,0.39,220.29
+672,292,2023-04-02,2023-12-06,Same Day,India,South,Pune,Corporate,Technology,Accessories,3524.85,8,0.43,339.52
+673,207,2023-09-03,2023-10-17,Same Day,India,North,Chennai,Home Office,Office Supplies,Chairs,4681.31,7,0.12,158.29
+674,200,2023-07-02,2024-01-03,Second Class,India,North,Bengaluru,Consumer,Furniture,Chairs,1390.05,6,0.14,-47.13
+675,333,2023-02-11,2023-08-18,Standard Class,India,North,Hyderabad,Corporate,Technology,Binders,3550.4,1,0.35,-91.28
+676,241,2023-09-21,2024-01-09,Second Class,India,North,Kolkata,Corporate,Office Supplies,Tables,86.05,6,0.1,476.78
+677,108,2023-12-04,2024-01-09,Second Class,India,North,Hyderabad,Consumer,Technology,Binders,771.36,5,0.09,-52.55
+678,270,2023-11-24,2023-11-29,Second Class,India,East,Pune,Corporate,Furniture,Binders,3032.36,6,0.15,907.4
+679,121,2023-07-08,2023-09-13,Standard Class,India,West,Pune,Home Office,Technology,Binders,1738.66,7,0.18,564.49
+680,388,2023-12-01,2024-01-02,Same Day,India,North,Kolkata,Consumer,Office Supplies,Chairs,3872.55,3,0.49,358.33
+681,42,2023-08-14,2023-12-22,Standard Class,India,South,Hyderabad,Home Office,Office Supplies,Binders,3205.78,5,0.48,351.0
+682,367,2023-04-01,2023-12-27,First Class,India,North,Pune,Home Office,Office Supplies,Chairs,3407.35,10,0.48,834.79
+683,495,2023-04-10,2023-04-30,Second Class,India,North,Bengaluru,Home Office,Furniture,Tables,905.25,10,0.25,-62.47
+684,315,2023-09-16,2023-10-02,Standard Class,India,West,Bengaluru,Home Office,Technology,Binders,3589.89,9,0.33,403.63
+685,381,2023-09-03,2023-09-06,Second Class,India,West,Mumbai,Consumer,Technology,Phones,4274.04,5,0.06,169.07
+686,132,2023-05-31,2023-09-12,Standard Class,India,South,Pune,Consumer,Office Supplies,Phones,3704.63,10,0.26,825.68
+687,241,2023-12-17,2023-12-20,Standard Class,India,East,Hyderabad,Consumer,Furniture,Chairs,1807.57,3,0.26,-3.74
+688,81,2023-05-03,2023-09-29,Same Day,India,South,Kolkata,Corporate,Technology,Tables,4011.44,1,0.27,32.29
+689,49,2023-04-29,2023-10-29,Standard Class,India,South,Mumbai,Home Office,Technology,Binders,1667.18,3,0.11,359.31
+690,235,2023-08-03,2023-12-06,Same Day,India,North,Hyderabad,Home Office,Office Supplies,Accessories,4677.76,4,0.16,842.88
+691,298,2023-06-11,2023-10-06,First Class,India,West,Hyderabad,Corporate,Technology,Chairs,3186.36,10,0.12,180.85
+692,213,2023-11-29,2023-12-19,Second Class,India,West,Bengaluru,Corporate,Office Supplies,Tables,1955.93,4,0.23,417.64
+693,114,2023-07-21,2023-12-18,Same Day,India,East,Kolkata,Home Office,Technology,Phones,74.15,6,0.49,807.49
+694,343,2023-09-28,2023-10-01,Standard Class,India,West,Pune,Home Office,Technology,Phones,3930.25,4,0.48,-25.37
+695,6,2023-02-22,2023-10-08,Standard Class,India,North,Chennai,Corporate,Technology,Chairs,1253.61,7,0.26,222.23
+696,222,2023-05-08,2023-05-25,Same Day,India,North,Mumbai,Corporate,Technology,Chairs,929.06,3,0.43,810.14
+697,346,2023-06-23,2023-12-07,Same Day,India,East,Pune,Consumer,Technology,Chairs,4946.39,3,0.11,-39.87
+698,348,2023-08-22,2023-09-09,Same Day,India,West,Bengaluru,Consumer,Furniture,Chairs,4977.36,2,0.47,849.7
+699,68,2023-05-10,2023-12-03,Same Day,India,South,Bengaluru,Home Office,Furniture,Tables,2861.01,6,0.3,156.73
+700,479,2023-07-31,2023-10-08,First Class,India,North,Pune,Consumer,Furniture,Binders,3555.99,5,0.18,605.64
+701,426,2023-03-15,2023-08-05,Standard Class,India,East,Bengaluru,Consumer,Furniture,Tables,1527.93,10,0.08,670.58
+702,182,2023-11-23,2023-11-26,Second Class,India,North,Mumbai,Home Office,Furniture,Binders,315.1,1,0.16,117.2
+703,350,2023-07-04,2023-10-31,First Class,India,East,Chennai,Consumer,Technology,Binders,528.0,7,0.37,557.15
+704,321,2023-10-09,2023-11-28,First Class,India,West,Pune,Corporate,Office Supplies,Chairs,4268.88,9,0.2,427.3
+705,369,2023-08-02,2023-09-25,First Class,India,North,Hyderabad,Corporate,Office Supplies,Chairs,3529.57,8,0.49,71.37
+706,202,2023-03-23,2023-05-05,First Class,India,South,Chennai,Consumer,Furniture,Phones,3741.15,2,0.4,853.34
+707,125,2023-09-16,2023-10-06,Same Day,India,West,Pune,Consumer,Office Supplies,Binders,1321.05,3,0.21,-99.86
+708,443,2023-07-18,2023-12-23,Standard Class,India,South,Kolkata,Home Office,Office Supplies,Chairs,3670.68,8,0.07,528.63
+709,59,2023-04-29,2024-01-04,Same Day,India,North,Mumbai,Consumer,Furniture,Phones,1537.21,8,0.48,544.28
+710,12,2023-10-30,2023-11-19,First Class,India,East,Pune,Corporate,Technology,Binders,3092.58,1,0.09,236.28
+711,190,2023-06-01,2023-07-06,Second Class,India,North,Delhi,Consumer,Furniture,Chairs,799.41,5,0.05,459.78
+712,484,2023-07-26,2023-11-20,Standard Class,India,West,Kolkata,Consumer,Technology,Accessories,4822.09,9,0.28,-33.35
+713,328,2023-01-29,2023-04-10,Second Class,India,East,Chennai,Consumer,Technology,Accessories,161.74,1,0.27,172.75
+714,120,2023-03-16,2023-09-15,First Class,India,South,Chennai,Home Office,Furniture,Phones,3619.87,8,0.37,655.37
+715,239,2023-08-07,2023-12-15,Same Day,India,East,Mumbai,Home Office,Office Supplies,Chairs,2077.76,7,0.18,208.08
+716,240,2023-09-06,2023-12-14,First Class,India,East,Pune,Consumer,Office Supplies,Chairs,888.4,2,0.38,422.94
+717,411,2023-10-02,2023-11-29,First Class,India,South,Hyderabad,Home Office,Furniture,Binders,4927.66,5,0.28,57.61
+718,23,2023-11-30,2023-12-18,Second Class,India,West,Hyderabad,Consumer,Furniture,Binders,1096.05,5,0.07,504.39
+719,388,2023-04-08,2023-11-07,First Class,India,West,Chennai,Corporate,Technology,Tables,1328.68,8,0.49,-83.54
+720,326,2023-05-12,2023-07-13,Second Class,India,South,Bengaluru,Home Office,Office Supplies,Accessories,1169.8,2,0.42,301.8
+721,479,2023-10-20,2023-10-21,Second Class,India,North,Pune,Consumer,Furniture,Tables,1420.42,5,0.13,107.04
+722,117,2023-08-22,2023-09-06,Same Day,India,East,Chennai,Home Office,Office Supplies,Binders,3161.84,6,0.4,478.56
+723,46,2023-08-27,2023-11-01,Same Day,India,South,Chennai,Consumer,Technology,Chairs,830.48,4,0.11,968.15
+724,305,2023-06-08,2023-08-17,Standard Class,India,East,Mumbai,Corporate,Office Supplies,Binders,598.39,10,0.49,216.02
+725,46,2023-03-01,2023-10-12,Second Class,India,East,Hyderabad,Corporate,Technology,Binders,3126.26,10,0.03,136.77
+726,222,2023-12-01,2024-01-02,First Class,India,East,Delhi,Home Office,Furniture,Phones,1017.08,1,0.45,384.7
+727,300,2023-01-18,2023-10-17,First Class,India,East,Kolkata,Corporate,Furniture,Chairs,4159.15,9,0.36,-90.48
+728,42,2023-05-30,2023-07-08,Second Class,India,West,Delhi,Consumer,Technology,Tables,3758.7,10,0.1,-71.88
+729,146,2023-07-20,2023-10-05,First Class,India,South,Hyderabad,Corporate,Technology,Binders,3965.6,6,0.49,-77.4
+730,143,2023-10-03,2023-10-09,First Class,India,North,Delhi,Corporate,Technology,Binders,1997.66,8,0.24,99.5
+731,434,2023-12-17,2023-12-29,First Class,India,North,Kolkata,Corporate,Office Supplies,Binders,1326.94,10,0.28,89.13
+732,394,2023-09-06,2023-12-31,Standard Class,India,East,Mumbai,Home Office,Furniture,Accessories,347.79,5,0.04,566.62
+733,13,2023-03-13,2023-05-25,Second Class,India,West,Hyderabad,Corporate,Office Supplies,Tables,1131.22,4,0.39,341.89
+734,187,2023-03-12,2023-08-09,Same Day,India,North,Bengaluru,Consumer,Furniture,Binders,3545.67,5,0.42,627.54
+735,145,2023-11-04,2024-01-01,Same Day,India,South,Hyderabad,Consumer,Office Supplies,Chairs,4536.68,10,0.04,660.31
+736,267,2023-08-26,2024-01-02,Same Day,India,East,Delhi,Home Office,Technology,Binders,3079.83,4,0.22,694.74
+737,369,2023-03-01,2023-03-05,Standard Class,India,North,Pune,Consumer,Technology,Binders,1907.22,8,0.07,127.43
+738,281,2023-01-17,2023-10-17,Same Day,India,West,Mumbai,Corporate,Office Supplies,Phones,2585.65,4,0.37,668.3
+739,223,2023-08-20,2023-09-05,First Class,India,West,Chennai,Consumer,Technology,Chairs,1012.83,6,0.42,254.2
+740,437,2023-09-10,2023-10-13,Same Day,India,East,Delhi,Corporate,Furniture,Chairs,4602.2,5,0.4,223.87
+741,161,2023-10-14,2023-11-11,Standard Class,India,North,Mumbai,Consumer,Office Supplies,Chairs,4094.36,8,0.46,794.5
+742,164,2023-10-16,2023-12-23,First Class,India,East,Mumbai,Home Office,Furniture,Accessories,1072.93,5,0.2,194.11
+743,54,2023-08-07,2023-12-07,Standard Class,India,East,Mumbai,Corporate,Furniture,Chairs,4331.12,2,0.08,65.8
+744,481,2023-07-14,2023-08-06,Standard Class,India,South,Mumbai,Corporate,Technology,Accessories,637.34,5,0.07,249.13
+745,373,2023-10-08,2024-01-09,Same Day,India,East,Kolkata,Consumer,Technology,Tables,2331.81,10,0.14,730.2
+746,4,2023-05-21,2024-01-07,Same Day,India,South,Delhi,Home Office,Technology,Chairs,1336.89,2,0.5,800.25
+747,239,2023-06-25,2023-12-14,Standard Class,India,North,Bengaluru,Corporate,Furniture,Accessories,3908.43,1,0.36,247.69
+748,26,2023-04-15,2023-05-03,First Class,India,North,Bengaluru,Consumer,Furniture,Accessories,4998.9,8,0.46,120.97
+749,109,2023-05-21,2023-10-06,Second Class,India,West,Bengaluru,Home Office,Technology,Phones,3531.08,4,0.37,921.44
+750,466,2023-11-07,2023-12-02,Standard Class,India,West,Kolkata,Consumer,Office Supplies,Tables,694.79,9,0.06,349.56
+751,317,2023-02-19,2024-01-04,First Class,India,East,Bengaluru,Corporate,Office Supplies,Chairs,1816.71,5,0.33,720.58
+752,240,2023-08-12,2023-10-07,Second Class,India,West,Mumbai,Home Office,Office Supplies,Binders,2782.75,6,0.04,-71.63
+753,114,2023-04-19,2023-08-01,First Class,India,North,Chennai,Corporate,Furniture,Phones,1748.83,5,0.34,910.43
+754,437,2023-06-05,2023-10-26,Same Day,India,South,Delhi,Corporate,Technology,Tables,132.45,8,0.05,281.03
+755,155,2023-03-15,2023-10-26,Same Day,India,West,Delhi,Home Office,Office Supplies,Accessories,4276.93,3,0.3,-27.0
+756,157,2023-10-25,2024-01-03,Second Class,India,West,Delhi,Consumer,Technology,Phones,3069.71,2,0.08,-83.82
+757,28,2023-01-05,2023-09-29,Same Day,India,North,Chennai,Corporate,Furniture,Binders,178.42,7,0.38,253.36
+758,36,2023-03-21,2023-12-05,Same Day,India,North,Mumbai,Corporate,Technology,Chairs,3961.88,10,0.41,936.32
+759,241,2023-04-07,2023-05-18,First Class,India,East,Bengaluru,Consumer,Furniture,Binders,4215.76,6,0.04,703.06
+760,278,2023-07-03,2024-01-04,First Class,India,West,Pune,Corporate,Furniture,Phones,2335.64,10,0.14,-17.67
+761,143,2023-05-19,2023-09-30,Second Class,India,East,Kolkata,Consumer,Furniture,Accessories,3396.27,9,0.05,501.94
+762,180,2023-02-08,2023-05-18,Second Class,India,South,Kolkata,Corporate,Office Supplies,Accessories,2378.41,5,0.18,718.38
+763,273,2023-05-20,2023-09-25,Same Day,India,South,Kolkata,Consumer,Technology,Tables,3557.88,8,0.38,810.18
+764,220,2023-08-04,2023-12-15,Standard Class,India,West,Kolkata,Consumer,Office Supplies,Phones,4371.8,8,0.22,115.24
+765,462,2023-07-09,2023-10-13,Standard Class,India,South,Kolkata,Home Office,Technology,Phones,4870.42,4,0.08,548.95
+766,271,2023-04-30,2023-06-11,Second Class,India,South,Pune,Corporate,Technology,Phones,1399.24,2,0.18,505.86
+767,280,2023-07-25,2023-12-31,First Class,India,East,Kolkata,Home Office,Office Supplies,Tables,2448.84,5,0.3,33.59
+768,329,2023-07-17,2023-08-25,Second Class,India,West,Delhi,Consumer,Furniture,Tables,4312.22,6,0.2,836.52
+769,477,2023-12-10,2023-12-16,Standard Class,India,North,Bengaluru,Consumer,Office Supplies,Accessories,149.74,6,0.09,526.56
+770,64,2023-10-24,2023-12-29,First Class,India,North,Mumbai,Corporate,Technology,Chairs,3115.02,2,0.22,693.8
+771,486,2023-01-16,2023-06-20,Same Day,India,East,Delhi,Home Office,Technology,Binders,3755.48,4,0.43,803.81
+772,174,2023-10-20,2023-12-31,First Class,India,East,Hyderabad,Consumer,Technology,Binders,304.44,4,0.32,488.07
+773,293,2023-05-31,2023-10-26,Same Day,India,North,Chennai,Consumer,Technology,Binders,832.58,9,0.13,864.66
+774,35,2023-12-17,2024-01-06,First Class,India,West,Pune,Consumer,Technology,Accessories,2420.0,6,0.41,-60.13
+775,116,2023-03-24,2023-11-27,Second Class,India,South,Hyderabad,Home Office,Technology,Binders,2764.7,6,0.17,885.89
+776,380,2023-05-30,2023-10-30,First Class,India,West,Pune,Corporate,Furniture,Phones,4329.46,2,0.33,157.53
+777,185,2023-06-03,2023-09-27,Same Day,India,East,Hyderabad,Consumer,Technology,Tables,2198.48,10,0.5,616.39
+778,158,2023-08-14,2023-12-03,Standard Class,India,West,Mumbai,Home Office,Technology,Tables,2174.79,3,0.23,92.7
+779,21,2023-08-14,2023-09-14,Standard Class,India,West,Pune,Corporate,Technology,Tables,1881.28,10,0.28,385.13
+780,46,2023-01-01,2023-01-19,First Class,India,South,Delhi,Consumer,Office Supplies,Phones,1923.41,4,0.07,446.52
+781,218,2023-04-29,2023-10-12,First Class,India,North,Bengaluru,Home Office,Office Supplies,Phones,1473.52,1,0.2,566.98
+782,4,2023-06-03,2023-07-17,Standard Class,India,North,Chennai,Corporate,Furniture,Binders,1110.58,9,0.27,187.3
+783,357,2023-09-17,2023-11-26,Standard Class,India,East,Hyderabad,Corporate,Technology,Chairs,1548.2,4,0.11,793.59
+784,273,2023-02-06,2023-11-04,Same Day,India,South,Bengaluru,Consumer,Furniture,Binders,622.36,9,0.02,759.83
+785,457,2023-04-08,2023-05-14,Standard Class,India,West,Hyderabad,Corporate,Technology,Tables,4779.26,6,0.38,740.97
+786,12,2023-08-13,2023-12-26,First Class,India,East,Pune,Home Office,Technology,Tables,3812.77,2,0.13,702.69
+787,400,2023-02-26,2023-07-27,Standard Class,India,North,Delhi,Consumer,Furniture,Accessories,4848.05,1,0.36,283.12
+788,358,2023-05-07,2023-07-06,Same Day,India,West,Hyderabad,Home Office,Furniture,Accessories,2826.26,6,0.23,966.4
+789,109,2023-09-17,2023-12-24,Same Day,India,South,Kolkata,Corporate,Furniture,Chairs,2818.01,6,0.26,748.4
+790,404,2023-11-21,2023-11-26,Same Day,India,East,Chennai,Corporate,Technology,Phones,1338.25,9,0.19,127.66
+791,469,2023-09-01,2023-11-04,Same Day,India,South,Kolkata,Consumer,Office Supplies,Chairs,1901.7,2,0.37,668.15
+792,13,2023-03-09,2023-06-10,Same Day,India,East,Hyderabad,Home Office,Technology,Accessories,4633.89,1,0.5,891.07
+793,409,2023-05-10,2023-10-26,Second Class,India,South,Bengaluru,Home Office,Office Supplies,Phones,3643.9,8,0.32,580.47
+794,120,2023-11-13,2023-12-30,First Class,India,East,Kolkata,Home Office,Technology,Tables,2850.85,9,0.47,716.18
+795,11,2023-01-08,2023-03-14,First Class,India,North,Kolkata,Consumer,Office Supplies,Tables,912.91,3,0.32,-79.3
+796,268,2023-04-07,2023-06-27,Second Class,India,East,Bengaluru,Consumer,Technology,Binders,828.41,6,0.29,368.77
+797,423,2023-05-21,2023-09-24,Standard Class,India,South,Bengaluru,Consumer,Technology,Chairs,3342.98,7,0.36,702.15
+798,332,2023-11-20,2023-12-20,Second Class,India,East,Hyderabad,Corporate,Furniture,Accessories,4715.62,2,0.5,-7.94
+799,485,2023-05-12,2023-05-14,Standard Class,India,West,Delhi,Home Office,Technology,Phones,4973.95,9,0.24,904.08
+800,133,2023-12-06,2023-12-17,Second Class,India,North,Chennai,Home Office,Technology,Tables,927.87,10,0.09,807.06
+801,403,2023-05-20,2023-05-28,First Class,India,East,Bengaluru,Consumer,Furniture,Phones,3904.45,10,0.4,371.33
+802,391,2023-09-24,2023-09-29,Second Class,India,South,Delhi,Consumer,Technology,Accessories,4843.38,7,0.08,-59.17
+803,20,2023-12-31,2024-01-06,Second Class,India,East,Chennai,Corporate,Furniture,Tables,2054.53,3,0.35,456.68
+804,452,2023-02-02,2023-08-20,Second Class,India,West,Bengaluru,Corporate,Office Supplies,Binders,903.21,10,0.43,235.9
+805,100,2023-05-27,2023-06-13,First Class,India,West,Bengaluru,Consumer,Office Supplies,Tables,2359.27,6,0.3,606.45
+806,319,2023-05-15,2023-10-14,Standard Class,India,West,Delhi,Home Office,Furniture,Chairs,699.25,1,0.1,59.05
+807,396,2023-10-06,2023-12-16,Standard Class,India,West,Chennai,Home Office,Office Supplies,Accessories,4247.15,4,0.15,502.39
+808,271,2023-04-08,2023-11-29,Second Class,India,East,Delhi,Corporate,Furniture,Binders,1614.08,5,0.37,689.4
+809,40,2023-07-06,2023-12-25,Standard Class,India,East,Kolkata,Home Office,Furniture,Tables,2071.02,7,0.12,916.38
+810,473,2023-03-24,2023-09-16,First Class,India,South,Mumbai,Corporate,Office Supplies,Phones,1089.94,2,0.34,698.41
+811,284,2023-01-09,2023-11-24,Same Day,India,South,Mumbai,Consumer,Office Supplies,Chairs,4390.77,2,0.01,714.34
+812,181,2023-12-21,2024-01-09,First Class,India,East,Kolkata,Home Office,Office Supplies,Binders,3183.84,2,0.5,301.85
+813,458,2023-06-12,2023-11-14,Standard Class,India,North,Bengaluru,Corporate,Office Supplies,Tables,1013.89,6,0.34,492.74
+814,315,2023-08-07,2023-10-14,Second Class,India,East,Bengaluru,Home Office,Office Supplies,Accessories,4033.81,3,0.34,615.76
+815,381,2023-06-12,2023-06-24,Standard Class,India,North,Pune,Consumer,Furniture,Tables,406.61,4,0.46,629.17
+816,348,2023-02-28,2023-11-18,Second Class,India,North,Delhi,Corporate,Technology,Tables,2662.99,6,0.06,912.89
+817,497,2023-01-04,2023-12-23,Second Class,India,South,Kolkata,Home Office,Office Supplies,Binders,1317.3,1,0.35,958.04
+818,45,2023-01-18,2023-10-02,First Class,India,East,Kolkata,Consumer,Office Supplies,Chairs,4813.48,10,0.16,754.37
+819,404,2023-05-14,2023-07-02,Standard Class,India,South,Bengaluru,Consumer,Office Supplies,Tables,2397.5,1,0.33,135.44
+820,97,2023-01-12,2023-03-03,Same Day,India,North,Pune,Consumer,Furniture,Binders,3953.26,9,0.29,267.47
+821,184,2023-07-31,2023-12-08,First Class,India,North,Kolkata,Consumer,Furniture,Tables,2277.01,7,0.46,444.29
+822,454,2023-05-28,2023-12-22,Same Day,India,East,Pune,Corporate,Technology,Phones,3131.72,6,0.39,522.51
+823,15,2023-04-21,2023-12-26,Same Day,India,East,Delhi,Corporate,Office Supplies,Tables,1480.76,10,0.09,-24.38
+824,446,2023-07-29,2023-09-17,Standard Class,India,West,Hyderabad,Corporate,Office Supplies,Phones,2065.68,8,0.34,268.1
+825,375,2023-02-21,2023-07-07,First Class,India,South,Delhi,Consumer,Furniture,Accessories,4339.28,7,0.31,432.11
+826,441,2023-09-14,2023-12-19,Second Class,India,West,Mumbai,Consumer,Furniture,Tables,236.45,7,0.43,811.7
+827,171,2023-07-21,2023-12-19,Second Class,India,West,Pune,Home Office,Furniture,Phones,4291.17,9,0.29,30.0
+828,69,2023-04-24,2023-12-01,First Class,India,West,Pune,Consumer,Technology,Phones,476.7,4,0.12,881.03
+829,349,2023-11-27,2023-12-20,Second Class,India,South,Delhi,Consumer,Office Supplies,Accessories,1528.43,2,0.47,441.61
+830,153,2023-10-12,2024-01-05,First Class,India,West,Chennai,Consumer,Furniture,Accessories,3657.95,4,0.08,803.65
+831,214,2023-12-05,2024-01-06,Standard Class,India,West,Kolkata,Consumer,Office Supplies,Accessories,1090.92,1,0.42,493.12
+832,291,2023-07-31,2023-11-23,Same Day,India,East,Chennai,Home Office,Furniture,Tables,1819.63,1,0.28,-18.49
+833,479,2023-09-25,2023-12-03,Standard Class,India,East,Kolkata,Corporate,Technology,Phones,1438.08,6,0.37,571.83
+834,459,2023-04-05,2023-11-03,Standard Class,India,South,Mumbai,Corporate,Technology,Binders,3913.48,1,0.28,836.8
+835,289,2023-12-25,2024-01-05,Same Day,India,West,Hyderabad,Corporate,Office Supplies,Chairs,671.29,8,0.29,649.67
+836,228,2023-03-20,2023-11-29,Standard Class,India,West,Mumbai,Consumer,Technology,Chairs,3721.08,2,0.13,498.54
+837,477,2023-08-27,2023-08-28,Standard Class,India,North,Hyderabad,Consumer,Technology,Accessories,4795.25,6,0.27,947.77
+838,349,2023-04-04,2023-12-07,Standard Class,India,West,Hyderabad,Consumer,Technology,Phones,3460.36,8,0.09,884.86
+839,462,2023-09-01,2023-09-15,Second Class,India,South,Chennai,Consumer,Technology,Phones,3278.78,6,0.08,762.67
+840,345,2023-06-18,2023-11-06,Same Day,India,West,Bengaluru,Corporate,Technology,Chairs,3308.47,1,0.29,358.1
+841,228,2023-06-21,2023-06-27,Second Class,India,North,Delhi,Home Office,Office Supplies,Binders,4762.21,5,0.07,832.0
+842,100,2023-01-22,2023-05-19,Same Day,India,South,Hyderabad,Home Office,Furniture,Phones,1231.4,6,0.08,92.88
+843,346,2023-08-22,2023-12-22,Second Class,India,North,Kolkata,Consumer,Technology,Binders,4043.48,9,0.01,821.2
+844,415,2023-12-07,2024-01-02,First Class,India,South,Mumbai,Consumer,Office Supplies,Binders,3267.98,5,0.15,930.3
+845,120,2023-01-24,2023-10-17,First Class,India,East,Bengaluru,Home Office,Technology,Accessories,715.14,3,0.46,745.77
+846,147,2023-12-29,2024-01-09,Same Day,India,North,Hyderabad,Consumer,Technology,Tables,4776.0,6,0.02,752.99
+847,125,2023-08-19,2023-10-15,Second Class,India,West,Bengaluru,Consumer,Furniture,Tables,656.6,10,0.12,643.06
+848,393,2023-03-12,2023-05-04,Second Class,India,West,Hyderabad,Corporate,Office Supplies,Accessories,4858.59,7,0.39,971.55
+849,65,2023-01-23,2023-12-18,Second Class,India,North,Bengaluru,Home Office,Office Supplies,Phones,567.28,6,0.47,102.94
+850,181,2023-09-20,2023-12-16,Standard Class,India,West,Delhi,Corporate,Technology,Phones,4702.92,10,0.2,735.88
+851,317,2023-11-10,2023-11-30,Standard Class,India,North,Hyderabad,Corporate,Furniture,Chairs,3137.38,3,0.38,403.37
+852,119,2023-10-26,2023-12-17,Second Class,India,East,Mumbai,Home Office,Office Supplies,Phones,4354.26,6,0.21,807.49
+853,119,2023-06-08,2023-08-09,Standard Class,India,North,Bengaluru,Consumer,Furniture,Chairs,3196.32,7,0.09,616.4
+854,200,2023-10-15,2023-12-10,First Class,India,North,Kolkata,Corporate,Furniture,Binders,2053.98,5,0.35,915.9
+855,3,2023-03-17,2023-06-13,Standard Class,India,South,Bengaluru,Consumer,Technology,Chairs,2147.26,6,0.08,-38.22
+856,268,2023-07-10,2023-09-13,Standard Class,India,North,Bengaluru,Consumer,Technology,Accessories,908.65,1,0.19,509.84
+857,294,2023-02-19,2023-07-13,Second Class,India,West,Bengaluru,Consumer,Technology,Phones,1575.96,10,0.23,-77.48
+858,58,2023-06-13,2023-11-22,Standard Class,India,North,Delhi,Home Office,Furniture,Binders,872.99,4,0.37,146.01
+859,453,2023-10-18,2023-12-16,Same Day,India,North,Chennai,Corporate,Office Supplies,Accessories,4231.92,8,0.11,523.49
+860,444,2023-02-12,2023-12-20,First Class,India,North,Chennai,Home Office,Furniture,Phones,4434.55,6,0.24,392.66
+861,136,2023-03-15,2023-08-01,Same Day,India,South,Bengaluru,Corporate,Furniture,Binders,4113.74,7,0.3,405.89
+862,379,2023-03-29,2023-04-05,Standard Class,India,North,Mumbai,Consumer,Furniture,Chairs,2505.43,10,0.45,988.59
+863,334,2023-07-18,2023-09-10,First Class,India,South,Mumbai,Consumer,Technology,Phones,1744.57,7,0.2,728.75
+864,495,2023-11-14,2023-11-18,Standard Class,India,South,Kolkata,Home Office,Office Supplies,Accessories,2736.72,7,0.28,312.23
+865,37,2023-11-08,2024-01-03,Same Day,India,West,Mumbai,Corporate,Office Supplies,Tables,1421.56,5,0.13,636.5
+866,155,2023-01-28,2023-06-07,Same Day,India,South,Kolkata,Consumer,Technology,Tables,3268.13,8,0.04,1.65
+867,233,2023-07-04,2023-07-15,Second Class,India,East,Bengaluru,Corporate,Furniture,Binders,527.65,1,0.08,670.98
+868,86,2023-06-07,2023-06-16,Second Class,India,East,Chennai,Corporate,Office Supplies,Phones,791.24,1,0.2,991.17
+869,388,2023-10-22,2023-10-31,Standard Class,India,South,Pune,Consumer,Technology,Tables,4940.66,3,0.41,420.33
+870,91,2023-04-16,2023-09-20,First Class,India,South,Mumbai,Consumer,Office Supplies,Chairs,3223.79,8,0.17,352.05
+871,165,2023-05-09,2023-11-17,Same Day,India,North,Delhi,Home Office,Technology,Tables,2180.27,2,0.44,87.22
+872,162,2023-10-19,2023-11-26,Standard Class,India,East,Delhi,Consumer,Furniture,Phones,3608.59,3,0.44,887.96
+873,216,2023-03-11,2023-05-21,Same Day,India,North,Hyderabad,Home Office,Technology,Chairs,723.73,1,0.16,637.74
+874,217,2023-05-05,2023-07-04,First Class,India,North,Pune,Home Office,Furniture,Phones,4379.7,2,0.04,452.03
+875,18,2023-06-06,2023-09-15,First Class,India,East,Kolkata,Corporate,Office Supplies,Accessories,3579.97,4,0.14,201.25
+876,70,2023-07-04,2023-10-30,Standard Class,India,East,Delhi,Consumer,Furniture,Accessories,2900.37,7,0.15,317.52
+877,231,2023-02-11,2023-03-19,First Class,India,East,Hyderabad,Corporate,Technology,Tables,592.09,4,0.5,490.41
+878,247,2023-12-10,2024-01-09,Same Day,India,East,Pune,Home Office,Furniture,Chairs,1580.57,7,0.14,-35.65
+879,108,2023-09-07,2023-09-21,Same Day,India,East,Chennai,Home Office,Technology,Binders,3488.36,7,0.44,496.88
+880,482,2023-08-03,2023-10-20,First Class,India,East,Chennai,Consumer,Furniture,Chairs,837.43,4,0.32,723.96
+881,95,2023-06-27,2023-08-10,First Class,India,East,Pune,Home Office,Office Supplies,Tables,2023.74,9,0.06,511.89
+882,131,2023-05-12,2023-06-02,Second Class,India,South,Pune,Corporate,Technology,Phones,74.01,8,0.03,438.72
+883,249,2023-03-23,2023-05-01,Same Day,India,West,Chennai,Consumer,Technology,Phones,3466.27,7,0.22,162.64
+884,175,2023-03-29,2023-05-22,Same Day,India,West,Kolkata,Home Office,Technology,Accessories,593.16,5,0.05,319.64
+885,120,2023-01-22,2023-10-02,Second Class,India,East,Hyderabad,Home Office,Furniture,Tables,2815.51,5,0.08,-16.03
+886,127,2023-10-01,2023-11-07,Same Day,India,East,Chennai,Home Office,Furniture,Chairs,4034.36,4,0.1,198.39
+887,202,2023-04-25,2023-10-05,First Class,India,West,Chennai,Corporate,Technology,Chairs,4579.3,1,0.29,878.48
+888,435,2023-07-07,2023-12-12,Same Day,India,South,Delhi,Corporate,Furniture,Accessories,1757.58,9,0.45,262.53
+889,154,2023-01-26,2023-12-06,Second Class,India,East,Kolkata,Home Office,Office Supplies,Tables,858.46,2,0.41,183.08
+890,268,2023-07-06,2023-09-16,Same Day,India,West,Kolkata,Corporate,Office Supplies,Chairs,1669.78,8,0.08,123.78
+891,160,2023-08-31,2023-09-21,Second Class,India,South,Bengaluru,Home Office,Furniture,Binders,2576.25,9,0.29,198.62
+892,17,2023-02-27,2023-04-08,Standard Class,India,West,Pune,Corporate,Office Supplies,Phones,494.5,3,0.15,125.59
+893,341,2023-08-17,2023-12-22,First Class,India,North,Kolkata,Consumer,Technology,Chairs,1657.27,4,0.1,22.32
+894,331,2023-06-23,2023-07-29,Same Day,India,East,Kolkata,Corporate,Furniture,Phones,1635.5,4,0.03,50.49
+895,478,2023-09-25,2023-12-14,Standard Class,India,West,Pune,Consumer,Technology,Phones,4770.6,6,0.03,896.61
+896,115,2023-01-21,2023-08-06,First Class,India,West,Bengaluru,Consumer,Technology,Phones,3565.35,6,0.44,199.0
+897,361,2023-12-30,2024-01-06,Same Day,India,West,Delhi,Corporate,Office Supplies,Phones,1063.82,9,0.29,965.14
+898,354,2023-02-09,2023-03-23,Same Day,India,East,Pune,Home Office,Technology,Tables,2269.48,9,0.08,-40.66
+899,354,2023-05-27,2023-08-31,Standard Class,India,North,Hyderabad,Consumer,Furniture,Binders,1562.94,3,0.26,18.6
+900,29,2023-12-01,2024-01-08,Second Class,India,North,Pune,Consumer,Office Supplies,Tables,566.72,9,0.25,967.0
+901,140,2023-12-14,2023-12-27,First Class,India,East,Pune,Consumer,Office Supplies,Chairs,2496.42,9,0.16,601.81
+902,210,2023-05-01,2024-01-02,First Class,India,East,Chennai,Home Office,Technology,Chairs,3616.09,8,0.07,889.76
+903,263,2023-10-28,2023-12-08,First Class,India,East,Pune,Consumer,Office Supplies,Binders,1122.63,8,0.07,374.2
+904,265,2023-07-07,2023-11-19,First Class,India,South,Mumbai,Corporate,Furniture,Chairs,1882.89,9,0.36,355.88
+905,320,2023-12-10,2024-01-08,Same Day,India,West,Kolkata,Consumer,Technology,Phones,437.5,6,0.27,442.73
+906,35,2023-11-13,2023-12-29,Second Class,India,East,Mumbai,Consumer,Office Supplies,Binders,1260.86,8,0.17,226.84
+907,377,2023-11-25,2023-12-24,Same Day,India,South,Bengaluru,Home Office,Office Supplies,Phones,3010.24,10,0.31,347.2
+908,33,2023-03-17,2023-10-13,Standard Class,India,West,Hyderabad,Consumer,Office Supplies,Tables,3844.31,3,0.26,318.75
+909,62,2023-05-16,2023-12-15,First Class,India,North,Chennai,Corporate,Furniture,Phones,638.44,10,0.31,-89.54
+910,264,2023-04-25,2023-12-22,Second Class,India,North,Mumbai,Home Office,Technology,Phones,3840.66,9,0.29,507.17
+911,53,2023-05-23,2023-12-06,Same Day,India,South,Hyderabad,Consumer,Technology,Tables,4436.69,3,0.23,106.14
+912,412,2023-07-12,2023-11-25,First Class,India,South,Mumbai,Consumer,Office Supplies,Chairs,2207.4,8,0.35,522.88
+913,121,2023-09-14,2023-11-26,Second Class,India,East,Hyderabad,Consumer,Office Supplies,Chairs,3715.62,10,0.17,517.65
+914,276,2023-01-14,2023-11-02,First Class,India,South,Mumbai,Corporate,Furniture,Binders,3670.49,8,0.07,142.02
+915,323,2023-05-31,2023-10-29,Standard Class,India,West,Chennai,Home Office,Office Supplies,Phones,4140.53,1,0.42,175.33
+916,250,2023-12-16,2023-12-27,First Class,India,West,Bengaluru,Home Office,Furniture,Phones,823.09,4,0.49,686.19
+917,283,2023-05-16,2023-07-24,First Class,India,South,Kolkata,Home Office,Technology,Accessories,1382.83,7,0.24,632.32
+918,24,2023-04-25,2023-08-10,Second Class,India,East,Pune,Home Office,Technology,Chairs,912.26,7,0.13,85.34
+919,25,2023-10-21,2023-10-21,Standard Class,India,South,Bengaluru,Corporate,Technology,Tables,4256.57,7,0.4,46.27
+920,42,2023-04-22,2023-11-23,First Class,India,West,Hyderabad,Corporate,Furniture,Chairs,3699.07,8,0.41,338.15
+921,233,2023-06-15,2023-10-14,First Class,India,East,Delhi,Corporate,Furniture,Tables,2410.68,3,0.14,419.22
+922,124,2023-10-10,2023-12-19,Same Day,India,North,Chennai,Home Office,Office Supplies,Binders,3391.99,6,0.31,265.26
+923,450,2023-04-05,2023-11-15,First Class,India,East,Pune,Corporate,Office Supplies,Binders,3129.82,8,0.04,690.96
+924,235,2023-12-17,2023-12-30,Second Class,India,North,Hyderabad,Corporate,Office Supplies,Binders,3271.87,6,0.0,-18.39
+925,382,2023-11-10,2023-12-28,First Class,India,North,Pune,Consumer,Furniture,Binders,2322.14,7,0.09,370.26
+926,401,2023-04-02,2023-10-02,First Class,India,East,Kolkata,Corporate,Furniture,Accessories,2414.37,1,0.4,92.81
+927,68,2023-05-07,2023-10-20,Second Class,India,South,Hyderabad,Corporate,Furniture,Binders,1195.25,9,0.23,751.6
+928,366,2023-02-09,2023-05-30,First Class,India,South,Mumbai,Home Office,Technology,Chairs,1925.23,2,0.22,-37.29
+929,170,2023-01-24,2023-03-16,Second Class,India,West,Mumbai,Consumer,Office Supplies,Chairs,4228.42,1,0.26,633.68
+930,355,2023-12-12,2023-12-21,Standard Class,India,East,Pune,Corporate,Office Supplies,Binders,2354.71,8,0.36,816.69
+931,363,2023-12-09,2023-12-19,Same Day,India,North,Chennai,Home Office,Office Supplies,Accessories,1969.41,9,0.25,815.28
+932,443,2023-07-05,2023-12-18,Standard Class,India,East,Delhi,Corporate,Furniture,Binders,1835.38,10,0.32,633.88
+933,328,2023-01-22,2023-02-19,First Class,India,North,Pune,Home Office,Office Supplies,Binders,4467.98,5,0.35,868.66
+934,384,2023-12-17,2023-12-25,Second Class,India,North,Mumbai,Corporate,Furniture,Chairs,4136.27,6,0.35,928.91
+935,286,2023-04-14,2023-07-10,Same Day,India,North,Kolkata,Corporate,Office Supplies,Binders,290.97,7,0.43,557.27
+936,119,2023-04-30,2023-08-22,Same Day,India,West,Mumbai,Home Office,Technology,Binders,1038.48,9,0.47,141.29
+937,139,2023-10-11,2023-11-17,Same Day,India,East,Pune,Home Office,Office Supplies,Chairs,665.73,9,0.33,883.65
+938,387,2023-07-29,2023-12-01,First Class,India,South,Hyderabad,Home Office,Office Supplies,Tables,4412.75,7,0.12,991.07
+939,123,2023-10-19,2023-12-29,Second Class,India,West,Kolkata,Consumer,Furniture,Accessories,2769.93,7,0.16,433.34
+940,430,2023-03-01,2023-09-08,Same Day,India,South,Chennai,Corporate,Technology,Phones,513.96,3,0.43,155.51
+941,364,2023-04-24,2023-05-19,Standard Class,India,East,Delhi,Consumer,Technology,Phones,3615.26,4,0.18,592.56
+942,494,2023-03-18,2023-12-03,First Class,India,East,Mumbai,Consumer,Technology,Accessories,1489.41,9,0.0,327.2
+943,55,2023-01-22,2023-07-18,Same Day,India,West,Chennai,Home Office,Technology,Accessories,4725.23,10,0.23,225.1
+944,185,2023-05-03,2023-09-01,First Class,India,North,Hyderabad,Corporate,Furniture,Accessories,4566.3,3,0.43,592.23
+945,212,2023-12-04,2023-12-19,First Class,India,North,Mumbai,Consumer,Office Supplies,Accessories,3004.97,8,0.13,918.0
+946,168,2023-02-12,2023-06-05,First Class,India,North,Mumbai,Corporate,Furniture,Phones,868.86,2,0.04,942.47
+947,354,2023-06-15,2023-11-01,Second Class,India,North,Pune,Corporate,Technology,Phones,3548.98,3,0.04,389.76
+948,23,2023-10-23,2023-11-30,Same Day,India,North,Mumbai,Home Office,Office Supplies,Binders,4004.71,3,0.14,270.23
+949,433,2023-07-08,2023-11-28,First Class,India,East,Bengaluru,Consumer,Technology,Binders,1575.47,4,0.4,757.71
+950,39,2023-12-06,2023-12-23,First Class,India,West,Kolkata,Consumer,Office Supplies,Tables,329.92,3,0.49,380.61
+951,65,2023-06-28,2023-11-11,First Class,India,South,Mumbai,Consumer,Technology,Tables,867.21,9,0.0,913.91
+952,379,2023-06-07,2023-12-14,Second Class,India,North,Kolkata,Home Office,Office Supplies,Accessories,4754.99,7,0.41,182.78
+953,366,2023-02-15,2023-10-20,First Class,India,North,Chennai,Corporate,Office Supplies,Chairs,600.66,7,0.37,33.69
+954,106,2023-03-23,2023-08-20,First Class,India,West,Bengaluru,Home Office,Furniture,Tables,625.8,9,0.34,39.12
+955,198,2023-08-04,2023-09-26,Same Day,India,North,Bengaluru,Consumer,Office Supplies,Tables,3605.83,5,0.5,634.03
+956,449,2023-05-01,2023-08-10,Standard Class,India,East,Kolkata,Home Office,Office Supplies,Binders,2427.73,9,0.49,668.11
+957,489,2023-06-14,2023-08-29,First Class,India,West,Hyderabad,Home Office,Furniture,Tables,166.97,7,0.1,498.91
+958,319,2023-11-30,2023-12-09,First Class,India,South,Bengaluru,Corporate,Office Supplies,Chairs,880.75,4,0.01,147.2
+959,190,2023-01-13,2023-01-27,Standard Class,India,South,Chennai,Home Office,Furniture,Tables,2806.83,7,0.22,247.66
+960,138,2023-08-16,2023-09-13,Second Class,India,North,Chennai,Consumer,Furniture,Binders,865.43,4,0.19,130.75
+961,370,2023-05-04,2023-05-16,First Class,India,North,Hyderabad,Consumer,Furniture,Tables,3531.86,6,0.25,28.38
+962,71,2023-04-20,2023-06-04,Standard Class,India,East,Mumbai,Home Office,Office Supplies,Tables,2421.9,1,0.48,997.11
+963,448,2023-05-16,2023-08-06,First Class,India,South,Kolkata,Home Office,Furniture,Tables,3814.99,6,0.28,551.47
+964,238,2023-01-25,2023-10-07,First Class,India,North,Chennai,Consumer,Technology,Tables,2456.27,5,0.31,42.47
+965,302,2023-02-12,2023-12-19,Same Day,India,East,Mumbai,Corporate,Furniture,Chairs,3700.06,4,0.48,642.31
+966,313,2023-02-25,2023-04-19,Second Class,India,North,Pune,Consumer,Furniture,Accessories,4360.01,8,0.23,867.12
+967,206,2023-12-12,2023-12-22,Second Class,India,North,Chennai,Consumer,Office Supplies,Binders,3445.92,1,0.46,95.1
+968,216,2023-11-26,2023-12-18,Second Class,India,South,Delhi,Corporate,Office Supplies,Binders,2082.64,5,0.44,682.09
+969,298,2023-02-17,2023-10-17,First Class,India,North,Mumbai,Home Office,Furniture,Accessories,1370.5,9,0.37,837.49
+970,351,2023-11-06,2023-12-01,Second Class,India,West,Chennai,Corporate,Technology,Tables,3947.25,1,0.01,883.78
+971,332,2023-11-17,2024-01-08,Second Class,India,West,Delhi,Home Office,Technology,Binders,4032.78,2,0.15,441.41
+972,304,2023-05-21,2023-07-24,Standard Class,India,South,Chennai,Consumer,Office Supplies,Tables,4396.27,9,0.01,635.91
+973,174,2023-04-28,2023-06-09,Same Day,India,North,Pune,Corporate,Furniture,Phones,2764.89,3,0.18,210.2
+974,365,2023-04-17,2023-09-30,First Class,India,East,Mumbai,Consumer,Furniture,Binders,4934.61,6,0.03,293.71
+975,374,2023-01-08,2023-07-02,Same Day,India,West,Bengaluru,Consumer,Office Supplies,Accessories,1872.32,9,0.22,-77.75
+976,270,2023-03-05,2023-04-08,First Class,India,East,Bengaluru,Consumer,Furniture,Binders,1027.03,7,0.3,-22.27
+977,423,2023-07-24,2023-09-30,Standard Class,India,North,Delhi,Corporate,Office Supplies,Tables,2202.3,10,0.28,474.18
+978,326,2023-05-20,2023-07-23,First Class,India,West,Delhi,Consumer,Furniture,Accessories,1070.37,10,0.16,119.44
+979,177,2023-07-27,2023-12-21,First Class,India,North,Bengaluru,Corporate,Office Supplies,Phones,2087.57,8,0.06,635.1
+980,341,2023-12-25,2023-12-28,First Class,India,East,Pune,Corporate,Technology,Accessories,1630.93,8,0.22,928.43
+981,403,2023-12-27,2023-12-29,Same Day,India,East,Pune,Corporate,Office Supplies,Tables,950.9,1,0.21,630.98
+982,326,2023-03-24,2023-07-23,Standard Class,India,East,Delhi,Home Office,Technology,Accessories,3288.39,2,0.17,573.96
+983,267,2023-07-24,2023-11-14,Second Class,India,East,Bengaluru,Consumer,Office Supplies,Accessories,1412.93,2,0.24,923.42
+984,365,2023-10-12,2023-11-26,Second Class,India,South,Delhi,Consumer,Furniture,Binders,481.77,3,0.38,543.13
+985,398,2023-08-10,2023-11-22,First Class,India,East,Pune,Corporate,Office Supplies,Phones,295.35,6,0.41,419.58
+986,429,2023-01-13,2023-10-25,Second Class,India,North,Delhi,Home Office,Office Supplies,Chairs,4159.67,5,0.37,325.18
+987,353,2023-09-02,2023-11-02,Second Class,India,West,Bengaluru,Corporate,Technology,Tables,4739.39,3,0.44,759.86
+988,238,2023-11-08,2023-12-01,Same Day,India,West,Delhi,Consumer,Technology,Tables,2567.23,7,0.34,398.71
+989,251,2023-07-24,2023-12-17,Second Class,India,South,Mumbai,Home Office,Furniture,Binders,2085.78,2,0.33,998.36
+990,124,2023-07-30,2023-11-02,Standard Class,India,South,Delhi,Home Office,Office Supplies,Tables,3598.97,1,0.32,902.36
+991,42,2023-07-04,2023-10-07,Standard Class,India,West,Chennai,Consumer,Office Supplies,Accessories,1228.74,8,0.4,315.66
+992,398,2023-08-12,2023-10-12,First Class,India,North,Chennai,Corporate,Office Supplies,Phones,1630.39,7,0.47,396.84
+993,384,2023-07-24,2023-11-27,Second Class,India,South,Kolkata,Corporate,Office Supplies,Phones,292.98,9,0.48,621.66
+994,77,2023-08-15,2024-01-09,First Class,India,West,Hyderabad,Consumer,Technology,Accessories,3558.63,3,0.16,384.48
+995,291,2023-01-16,2023-08-24,Same Day,India,South,Bengaluru,Corporate,Technology,Tables,3617.41,3,0.23,244.24
+996,343,2023-06-30,2023-07-08,Second Class,India,West,Bengaluru,Corporate,Furniture,Binders,1055.02,6,0.01,904.66
+997,222,2023-09-03,2023-10-22,Same Day,India,North,Chennai,Corporate,Office Supplies,Binders,4760.03,3,0.46,302.49
+998,444,2023-07-29,2023-09-03,Second Class,India,South,Hyderabad,Consumer,Office Supplies,Accessories,697.09,6,0.07,808.06
+999,212,2023-06-02,2023-12-24,Second Class,India,South,Hyderabad,Consumer,Furniture,Tables,3294.99,10,0.06,-94.19
+1000,497,2023-10-08,2023-10-27,Second Class,India,South,Pune,Corporate,Technology,Phones,1651.54,1,0.16,36.58

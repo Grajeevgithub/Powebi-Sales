@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,Sub-Category,Price
+1,Physical Accessory,Office Supplies,Binders,65.45
+2,Skin Accessory,Technology,Chairs,77.98
+3,Job Phone,Technology,Tables,1039.78
+4,Support Binder,Technology,Chairs,1541.68
+5,Partner Phone,Office Supplies,Chairs,1807.13
+6,We Binder,Office Supplies,Phones,220.19
+7,Sport Accessory,Office Supplies,Chairs,1280.45
+8,Power Accessory,Office Supplies,Chairs,1485.02
+9,Hit Table,Furniture,Binders,129.67
+10,Upon Phone,Technology,Phones,934.33
+11,Find Accessory,Furniture,Accessories,446.1
+12,Citizen Chair,Technology,Binders,1200.75
+13,Each Accessory,Technology,Tables,913.77
+14,Soldier Chair,Furniture,Phones,1350.22
+15,Century Binder,Office Supplies,Chairs,1944.97
+16,Protect Phone,Technology,Tables,870.53
+17,Require Binder,Furniture,Binders,197.01
+18,Fill Chair,Furniture,Tables,1970.0
+19,Ten Phone,Office Supplies,Accessories,583.19
+20,Summer Table,Furniture,Accessories,140.91
+21,Recent Phone,Technology,Tables,392.99
+22,Show Table,Office Supplies,Binders,495.6
+23,Practice Phone,Furniture,Chairs,583.66
+24,Four Table,Technology,Chairs,1212.21
+25,Out Accessory,Office Supplies,Accessories,473.34
+26,Important Table,Technology,Chairs,315.35
+27,In Chair,Technology,Phones,1007.79
+28,Ten Phone,Technology,Chairs,1390.12
+29,Name Chair,Furniture,Tables,674.36
+30,Painting Chair,Office Supplies,Chairs,979.98
+31,Increase Phone,Office Supplies,Phones,1156.25
+32,Identify Binder,Furniture,Phones,756.75
+33,Not Chair,Technology,Phones,1094.52
+34,Court Table,Technology,Accessories,94.1
+35,Car Chair,Furniture,Accessories,1305.62
+36,Across Chair,Technology,Accessories,782.0
+37,Phone Chair,Furniture,Binders,411.12
+38,Start Phone,Furniture,Binders,306.56
+39,Pick Binder,Technology,Chairs,302.78
+40,Attorney Table,Furniture,Chairs,910.69
+41,Case Phone,Office Supplies,Binders,1282.75
+42,According Accessory,Technology,Phones,1514.19
+43,Just Accessory,Furniture,Chairs,1094.26
+44,Produce Binder,Furniture,Binders,967.07
+45,Western Phone,Technology,Tables,113.11
+46,We Phone,Technology,Binders,994.38
+47,State Phone,Technology,Tables,351.31
+48,Oil Table,Furniture,Accessories,143.48
+49,Early Accessory,Office Supplies,Tables,1047.1
+50,Answer Accessory,Furniture,Tables,1533.14
+51,Much Chair,Furniture,Chairs,834.22
+52,Painting Table,Office Supplies,Accessories,745.93
+53,Whatever Table,Office Supplies,Tables,1011.72
+54,Buy Chair,Furniture,Accessories,1993.65
+55,Team Accessory,Technology,Tables,769.46
+56,Then Table,Office Supplies,Chairs,144.48
+57,As Table,Furniture,Tables,1943.23
+58,Majority Table,Office Supplies,Accessories,831.7
+59,Front Chair,Technology,Accessories,1991.96
+60,Bed Accessory,Technology,Accessories,935.59
+61,Dinner Table,Technology,Phones,1143.54
+62,Laugh Table,Office Supplies,Phones,1431.99
+63,Thought Binder,Furniture,Chairs,787.89
+64,Interview Binder,Furniture,Accessories,1475.72
+65,Bring Phone,Office Supplies,Phones,1174.44
+66,Career Accessory,Technology,Accessories,1131.7
+67,Chance Table,Furniture,Chairs,1172.33
+68,Itself Chair,Furniture,Phones,1910.69
+69,Chance Phone,Technology,Phones,1648.13
+70,Involve Phone,Office Supplies,Chairs,597.73
+71,Gas Chair,Technology,Phones,988.07
+72,Point Table,Office Supplies,Accessories,653.53
+73,Heart Binder,Furniture,Tables,1598.94
+74,Guy Binder,Furniture,Tables,1349.5
+75,Small Chair,Office Supplies,Binders,1491.34
+76,Believe Chair,Office Supplies,Binders,1094.22
+77,Particularly Binder,Technology,Chairs,904.66
+78,Poor Table,Technology,Chairs,685.5
+79,Pay Table,Furniture,Chairs,795.63
+80,Spring Chair,Technology,Phones,1447.82
+81,Keep Phone,Technology,Chairs,1512.33
+82,Speak Binder,Technology,Chairs,1737.55
+83,Treatment Accessory,Office Supplies,Binders,1248.61
+84,Guy Binder,Technology,Binders,1648.04
+85,Decide Table,Office Supplies,Chairs,1449.31
+86,School Binder,Technology,Chairs,337.75
+87,National Table,Technology,Accessories,937.43
+88,News Binder,Office Supplies,Phones,1775.27
+89,Accept Binder,Technology,Tables,1734.91
+90,Mouth Chair,Technology,Accessories,79.97
+91,Suffer Phone,Office Supplies,Accessories,684.58
+92,Dinner Phone,Furniture,Binders,1851.38
+93,Statement Phone,Furniture,Chairs,1694.69
+94,Television Accessory,Furniture,Phones,1944.41
+95,Whom Accessory,Technology,Tables,1897.52
+96,Which Accessory,Furniture,Accessories,1756.14
+97,Best Table,Technology,Binders,725.56
+98,Great Accessory,Furniture,Phones,625.46
+99,Challenge Table,Technology,Binders,319.84
+100,Establish Phone,Furniture,Tables,456.48
+101,Forget Binder,Office Supplies,Binders,1726.73
+102,Me Chair,Furniture,Accessories,1990.94
+103,Baby Accessory,Technology,Binders,1002.55
+104,Movie Accessory,Office Supplies,Tables,1609.31
+105,Give Chair,Office Supplies,Phones,1380.47
+106,See Chair,Technology,Phones,736.06
+107,Able Binder,Technology,Phones,384.49
+108,Later Phone,Furniture,Accessories,331.39
+109,Stuff Table,Furniture,Accessories,1453.94
+110,Leader Phone,Office Supplies,Tables,1448.85
+111,Minute Binder,Furniture,Accessories,1231.69
+112,Collection Table,Furniture,Tables,203.43
+113,Management Chair,Office Supplies,Chairs,832.34
+114,News Table,Office Supplies,Chairs,670.44
+115,Write Accessory,Technology,Accessories,232.6
+116,Forward Table,Furniture,Phones,241.14
+117,Several Table,Technology,Accessories,1745.15
+118,Southern Chair,Furniture,Accessories,1896.04
+119,Respond Chair,Technology,Accessories,135.73
+120,Nation Accessory,Office Supplies,Binders,349.12
+121,Exactly Phone,Furniture,Phones,1774.92
+122,If Phone,Furniture,Binders,864.77
+123,He Accessory,Furniture,Tables,679.45
+124,Report Accessory,Furniture,Chairs,67.86
+125,Authority Phone,Office Supplies,Tables,1270.26
+126,Building Binder,Furniture,Phones,1604.03
+127,Skill Binder,Technology,Binders,1125.88
+128,Pull Table,Furniture,Chairs,255.59
+129,Necessary Accessory,Furniture,Phones,887.07
+130,Account Table,Technology,Phones,1757.39
+131,Wide Binder,Furniture,Chairs,684.78
+132,Agreement Phone,Technology,Phones,374.37
+133,Baby Phone,Furniture,Phones,537.79
+134,Different Accessory,Technology,Chairs,1620.92
+135,Oil Table,Furniture,Chairs,612.1
+136,Clearly Table,Furniture,Phones,592.45
+137,Upon Phone,Furniture,Chairs,158.55
+138,Leg Table,Office Supplies,Chairs,1435.72
+139,Cold Binder,Furniture,Chairs,1466.91
+140,Home Table,Technology,Tables,1073.79
+141,Shake Table,Technology,Chairs,238.79
+142,Blood Accessory,Office Supplies,Binders,1475.79
+143,Mean Binder,Furniture,Binders,65.49
+144,Put Phone,Office Supplies,Chairs,1117.72
+145,Model Binder,Furniture,Chairs,798.19
+146,Health Binder,Office Supplies,Tables,1487.69
+147,School Table,Office Supplies,Chairs,65.32
+148,Your Table,Furniture,Phones,1531.8
+149,Career Accessory,Office Supplies,Accessories,1078.07
+150,Energy Table,Technology,Binders,1230.88
+151,Suffer Binder,Furniture,Binders,1197.4
+152,Magazine Chair,Furniture,Phones,286.92
+153,Some Binder,Technology,Chairs,200.59
+154,Responsibility Binder,Office Supplies,Chairs,1995.68
+155,Position Binder,Furniture,Accessories,640.65
+156,Him Chair,Technology,Chairs,712.51
+157,Fall Accessory,Technology,Accessories,227.44
+158,Difference Binder,Furniture,Phones,668.35
+159,Natural Accessory,Office Supplies,Binders,819.0
+160,Capital Phone,Technology,Accessories,299.72
+161,Itself Phone,Technology,Tables,1805.8
+162,Kind Binder,Technology,Chairs,502.31
+163,In Accessory,Office Supplies,Tables,287.19
+164,Maintain Table,Technology,Tables,978.0
+165,Act Binder,Technology,Chairs,1601.15
+166,Tend Chair,Technology,Binders,928.84
+167,Month Chair,Office Supplies,Phones,1415.15
+168,Relationship Binder,Furniture,Chairs,1672.05
+169,Along Phone,Technology,Accessories,664.81
+170,Challenge Binder,Furniture,Phones,936.21
+171,Region Binder,Technology,Chairs,1756.2
+172,Relate Phone,Office Supplies,Accessories,1243.71
+173,Consumer Table,Office Supplies,Accessories,783.31
+174,Past Phone,Furniture,Chairs,321.91
+175,Environmental Binder,Technology,Accessories,472.74
+176,Occur Accessory,Office Supplies,Phones,1743.83
+177,Fear Table,Office Supplies,Chairs,1332.64
+178,Chance Binder,Technology,Phones,1968.36
+179,Cultural Chair,Furniture,Tables,608.61
+180,Job Table,Office Supplies,Binders,1467.13
+181,Federal Table,Furniture,Tables,700.51
+182,Play Table,Office Supplies,Accessories,303.71
+183,Science Accessory,Furniture,Phones,782.61
+184,Meet Accessory,Technology,Tables,232.78
+185,The Binder,Technology,Binders,1464.87
+186,Leg Accessory,Office Supplies,Tables,1776.36
+187,Spend Accessory,Office Supplies,Tables,1086.14
+188,Who Chair,Office Supplies,Phones,283.68
+189,Anyone Accessory,Furniture,Binders,705.6
+190,Degree Phone,Technology,Phones,963.54
+191,Such Accessory,Office Supplies,Phones,719.0
+192,Rich Chair,Office Supplies,Chairs,1819.82
+193,Detail Accessory,Technology,Chairs,1190.65
+194,Trip Table,Furniture,Phones,811.51
+195,Teach Phone,Office Supplies,Phones,1613.64
+196,Avoid Phone,Technology,Chairs,1897.34
+197,Western Phone,Furniture,Accessories,885.28
+198,Indeed Accessory,Furniture,Phones,366.89
+199,Society Chair,Furniture,Tables,333.57
+200,World Table,Technology,Phones,1521.52

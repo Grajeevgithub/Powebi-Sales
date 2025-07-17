@@ -19,16 +19,11 @@ To transform raw sales data into interactive dashboards that help:
 
 ---
 
-## 📸 Dashboard Visuals
+## 🔗 Dashboard Links
 
-### 🔷 1. Customer Segmentation
-![Customer Segment](https://raw.githubusercontent.com/Grajeevgithub/Powebi-Sales/main/images/Customer%20segment.png)
-
-### 🔷 2. Return Trends Breakdown
-![Return Trends](https://raw.githubusercontent.com/Grajeevgithub/Powebi-Sales/main/images/return_analysis.png)
-
-### 🔷 3. Deep Dive: Sales Analysis
-![Sales Analysis](https://raw.githubusercontent.com/Grajeevgithub/Powebi-Sales/main/images/Sales%20analsys.png)
+- [Customer Segmentation Dashboard](https://github.com/Grajeevgithub/Powebi-Sales/blob/main/images/Customer%20segment.png)
+- [Return Trends Breakdown](https://github.com/Grajeevgithub/Powebi-Sales/blob/main/images/return_analysis.png)
+- [Sales Analysis Dashboard](https://github.com/Grajeevgithub/Powebi-Sales/blob/main/images/Sales%20analsys.png)
 
 ---
 

@@ -57,3 +57,27 @@ To transform raw sales data into interactive dashboards that help:
 
 ## 📂 Project Folder Structure
 
+Powebi-Sales/
+│
+├── data/
+│ └── Sales.csv
+├── images/
+│ ├── Customer segment.png
+│ ├── return_analysis.png
+│ └── Sales analsys.png
+├── PowerBI/
+│ └── SalesDashboard.pbix
+└── README.md
+
+
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn – Giramoni Rajeev Prakash](https://www.linkedin.com/in/giramoni-rajeev-prakash-29072ba6/)
+- 📁 [GitHub Repo – Powebi-Sales](https://github.com/Grajeevgithub/Powebi-Sales)
+
+---
+
+⭐ **Star this project if you found it insightful!**

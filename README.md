@@ -1,46 +1,92 @@
-# 📊 Power BI Sales Analysis Project
+# 📊 Power BI Sales Dashboard
 
-This project includes 3 dashboards built in Power BI to analyze sales performance, customer segmentation, and return trends for a retail dataset.
+This project presents a **Sales Performance Dashboard** built using Power BI. It helps stakeholders monitor key sales metrics, identify top-performing products and regions, and analyze return patterns.
 
----
+## 🔍 Objective
 
-## 🔹 Dashboards Included
+To analyze sales data and extract insights like:
+- Total Sales and Profit
+- Monthly Trends
+- Top Performing Products & Regions
+- Return Analysis
 
-1. **Sales Performance Dashboard**
-   - Total Sales: ₹2.46M | Profit: ₹433K | Margin: 18%
-   - Top categories: Furniture, Technology, Office Supplies
-   - Top sub-categories: Tables, Binders, Chairs
-   - Regional sales trends and city-wise filters
+## 📁 Dataset
 
-2. **Customer Segmentation Dashboard**
-   - 500 Customers from 7 Cities
-   - Segments: Consumer, Corporate, Home Office
-   - Average sales per customer and total order breakdown
-
-3. **Return Analysis Dashboard**
-   - Return % and return count by sub-category
-   - Time-based return trends
-   - Loss impact from returns
+Dataset: [Sales Data CSV](https://github.com/Grajeevgithub/Powebi-Sales/blob/main/data/Sales.csv)
 
 ---
 
-## 🧠 Key Learnings
+## 📸 Dashboard Previews
 
-- 📌 Created 15+ visuals using Power BI
-- ⚙️ Used DAX for KPI cards (Profit Margin, Avg. Sales)
-- 🧹 Performed data cleaning using Power Query and Excel
-- 📈 Built interactive dashboards with slicers for region, city, and category
+### 🔹 Main Sales Dashboard
+![Main Dashboard](https://raw.githubusercontent.com/Grajeevgithub/Powebi-Sales/main/images/sales_dashboard.png)
 
----
-
-## 📁 Files
-
-- `PowerBI-Sales-Dashboard.pbix`: Main Power BI File
-- `/Images`: Screenshots of dashboards
+### 🔹 Return Analysis Dashboard
+![Return Analysis](https://raw.githubusercontent.com/Grajeevgithub/Powebi-Sales/main/images/return_analysis.png)
 
 ---
 
-## 🔗 Connect with Me
+## 🛠️ Tools Used
 
-🔹 [LinkedIn Profile](https://www.linkedin.com/in/giramoni-rajeev-prakash-29072ba6/)  
-🔹 [GitHub Profile](https://github.com/Grajeevgithub)
+- Power BI (for Dashboard)
+- Power Query (for data cleaning)
+- DAX (for KPIs & measures)
+- Excel (basic data prep)
+- Python (exploratory data analysis)
+
+---
+
+## 📌 Key Features
+
+- **KPI Cards** for Total Sales, Profit, Quantity
+- **Line Charts** for Monthly Trends
+- **Bar Charts** for Top 10 Products
+- **Map Visualization** for Geographic Sales
+- **Return Status Breakdown** using slicers and filters
+
+---
+
+## ✅ Insights
+
+- Region X has the highest revenue contribution.
+- Product Category Y is the most returned.
+- Sales peak during [Month].
+- Returns affect profit margin by ~X%.
+
+---
+
+## 🧠 Learning Outcome
+
+- Mastery in building business dashboards using Power BI.
+- Hands-on DAX for calculated columns and measures.
+- Real-time filtering using slicers and interactivity.
+- Cleaned and reshaped data using Power Query.
+
+---
+
+## 📎 Project Folder Structure
+
+Powebi-Sales/
+│
+├── data/
+│ └── Sales.csv
+├── images/
+│ ├── sales_dashboard.png
+│ └── return_analysis.png
+├── PowerBI/
+│ └── SalesDashboard.pbix
+└── README.md
+
+---
+
+
+---
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/giramoni-rajeev-prakash-29072ba6/)
+- 📁 [GitHub Project Folder](https://github.com/Grajeevgithub/Powebi-Sales)
+
+---
+
+⭐ If you like this project, consider starring it on GitHub!

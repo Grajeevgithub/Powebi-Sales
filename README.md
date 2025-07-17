@@ -13,11 +13,6 @@ To transform raw sales data into interactive dashboards that help:
 
 ---
 
-## 📁 Dataset
-
-📂 [Sales.csv](https://github.com/Grajeevgithub/Powebi-Sales/blob/main/data/Sales.csv)
-
----
 
 ## 🔗 Dashboard Links
 

@@ -22,8 +22,7 @@ Dataset: [Sales Data CSV](https://github.com/Grajeevgithub/Powebi-Sales/blob/mai
 ![Main Dashboard](https://raw.githubusercontent.com/Grajeevgithub/Powebi-Sales/main/images/sales_dashboard.png)
 
 ### 🔹 Return Analysis Dashboard
-![Return Analysis]([https://github.com/Grajeevgithub/Powebi-Sales/blob/main/images/Return%20Analysis.png)](https://github.com/Grajeevgithub/Powebi-Sales/blob/main/images/Return%20Analysis.png)
-
+![Return Analysis]([https://github.com/Grajeevgithub/Powebi-Sales/blob/main/images/Return%20Analysis.png)]
 ---
 
 ## 🛠️ Tools Used
